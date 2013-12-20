@@ -1,0 +1,3 @@
+/* Loading style.css after bootstrap allows us to overwrite bootstap styles */
+@import url('bootstrap.css'); 
+@import url('style.css');

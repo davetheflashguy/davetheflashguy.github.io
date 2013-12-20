@@ -1,0 +1,375 @@
+
+/* =============================================================================
+   Primary styles
+   Author: Dave Collier 
+   ========================================================================== */
+
+/** Native HTML4/5 Styling **/
+p{
+  color:#666;
+  line-height: 20px;
+  margin: 25px;
+  font-size: 0.700em;
+}
+
+h1, h2, h3 {
+  margin: 0em 0em 0.250em 0em;
+  padding: 0em;
+  color: #003663;
+  font-weight:normal; 
+}
+
+h1{
+  font-size:1.500em;
+}
+
+h2{
+  font-size:1.200em;
+}
+
+h3{
+  color:#666;
+  font-size:900em;
+}
+
+ul li{
+  list-style-image:url(../imgs/custom_bullet_sprite.png);
+  padding-bottom:0.250em; 
+  line-height: 1.563em;
+  margin-left: .900em.;
+}
+
+body{
+  background: #FFF;
+  font-family:'Ubuntu Mono';
+  font-size:1.250em;
+  margin:0;
+  padding:0;
+}
+
+header {
+  height: 120px;
+  background-image:url(../imgs/header_bg.jpg);
+  background-repeat:repeat-x;
+  padding-left:10px;
+  padding-right:10px;
+  margin-left:auto;
+  margin-right:auto;  
+}
+
+.container{
+  /** 
+    The default width of the header and 
+    all content should be 990px.  We'll use 
+    media quieries to change this accordingly.
+  **/
+  width: 970px; 
+}
+
+#branding{
+  height:72px;
+  top:25px;
+  position:relative;
+  background-image:url(../imgs/logo.png);
+  background-repeat: no-repeat;
+}
+
+nav {
+  padding-left:10px;
+  padding-right:0px;
+}
+
+nav ul {
+  margin: 0; 
+  padding: 0;
+  float: right;
+}
+
+nav ul li{
+  display: inline;
+  font-size: 0.900em;
+  font-weight:bold;
+  color:#666;
+}
+ 
+nav ul li a:link, nav ul li a{
+  text-decoration: none;
+  padding: 10px 11px;
+  color:#666;
+  background-image:url(../imgs/undsc.png);
+  background-position:left;
+  background-repeat:no-repeat;
+}
+  
+nav ul li a:visited{
+  color:#666;
+}
+
+nav ul li a:active{
+  background-image:url(../imgs/undscr.png);
+  background-position:left;
+  background-repeat:no-repeat;
+  color: red;
+}
+ 
+nav ul li a:hover, nav ul li .current{
+  background-image:url(../imgs/undscr.png);
+  background-position:left;
+  background-repeat:no-repeat;
+  color: red;
+}
+
+#menu_wrapper{
+  margin-top: 20px;
+  padding-bottom: 22px;
+}
+  
+#home_banner{
+  background-image:url(../imgs/banner-home.jpg);
+  background-repeat:no-repeat;
+  background-position:center;
+}
+
+#dreams_banner{
+  background-image:url(../imgs/banner-dreams.jpg);
+  background-repeat:no-repeat;
+  background-position:center;
+}
+
+
+#visions_banner{
+  background-image:url(../imgs/banner-visions.jpg);
+  background-repeat:no-repeat;
+  background-position:center;
+}
+
+.banner{
+  margin-left:auto;
+  margin-right:auto;
+  height:215px;
+  width:970px; // must be set for borders to work - will need to be a media query
+  -moz-border-radius:9px;
+  -webkit-border-radius:9px;
+  -khtml-border-radius:9px;
+  border-radius:9px;
+  margin-bottom: 17px;
+}
+
+#page {
+  background-color: #FFF;
+  padding-left:10px;
+  padding-right:10px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.underline{
+  border-bottom:#666;
+  border-bottom-style:solid;
+  border-bottom-width:2px;
+  margin-bottom:5px;
+  padding-left: 20px;
+}
+
+.halfColumnLeft {
+  color:#666;
+  width:45%;
+  margin-left:20px;
+  float:left; 
+}
+
+.halfColumnRight {
+  color:#666;
+  width:45%;
+  margin-right:20px;
+  float:right;  
+}
+
+.half_content_wrapper{
+  height: 180px;
+  overflow: auto;
+}
+
+.half_content_wrapper ul{
+  font-size: .750em;
+}
+
+.half_content_wrapper ul li{
+  margin-left: 20px;
+}
+
+.more{
+  float:right;
+  font-weight:bold;
+  color:#666;
+  padding-bottom: 30px;
+  margin-right: 15px;
+  font-size: .750em;
+}
+
+.halfColumnLeft p,
+.halfColumnRight p{
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.halfColumnLeft img,
+.halfColumnRight img{
+  margin:5px;
+}
+
+.more a:link,.more a:active,.more a:visited{
+  text-decoration:none;
+  color:#666; 
+}
+
+.more a:hover{
+  text-decoration:none;
+  color:#F00; 
+} 
+
+.more a:hover span{
+  height:15px !important;
+  border-bottom:solid #F00; 
+}
+
+.description{
+  line-height: 20px;
+  margin-top: 15px;
+}
+
+.thumb{
+  float:left;
+  padding-left:15px;
+  padding-right:15px;
+  padding-bottom:5px;
+}
+
+/* Overrides bootstrap */
+.thumbnails > li {
+  float: left;
+  margin-bottom: 10px;
+}
+
+footer{
+  bottom: 0px;
+  border-top: 4px solid #f80000;
+  color: #FFF;
+  height: 105px;
+  font-size: 14px;
+  background: #004293; /* Old browsers */
+  background: -moz-linear-gradient(top, #004293 0%, #003664 98%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#004293), color-stop(98%,#003664)); /* Chrome,Safari4+ */
+  background: -ms-linear-gradient(top, #004293 0%,#003664 98%); /* IE10+ */
+  background: linear-gradient(to bottom, #004293 0%,#003664 98%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#004293', endColorstr='#003664',GradientType=0 ); /* IE6-9 */
+}
+
+footer #content-footer{
+  padding-left:10px;
+  padding-right:10px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+footer #left{
+  float: left;
+  text-align: left;
+  margin-top: 20px;
+  padding-left:10px;
+}
+
+footer #right{
+  float: right;
+  text-align: right;
+  margin-top: 20px;
+  padding-right:10px;
+}
+
+footer .item{
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+footer .item a:link, footer .item a{
+  color: #FFF;
+  text-decoration: none;
+}
+  
+footer .item a:visited{
+  color: #FFF;
+  text-decoration: none;
+}
+
+footer .item a:active{
+  color: #FFF;
+  text-decoration: none;
+}
+ 
+footer .item a:hover{
+  color: #FFF;
+  text-decoration: underline;
+}
+
+footer #icon{
+  float: left;
+  height: 16px;
+  width: 16px;
+}
+
+.vision_item {
+  height: 125px;
+  background-color: #e2e2e2;
+  margin-top: 25px;
+}
+
+.vision_item img {
+  margin-left: 40px;
+  float: left;
+}
+
+.vision_item .description {
+  float: right;
+  width: 700px; /* media query */
+  margin-right: 40px;
+}
+
+.vision_item .description p {
+  margin: 0;
+  margin-left: 50px;
+}
+
+.vision_item #item_img_container{
+  width: 176px;
+  background-color: #FF0;
+}
+
+/* Desktops and laptops ----------- */
+@media only screen and (min-width : 1224px) {
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+ 
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+
+}
+
+/* Desktops and laptops ----------- */
+@media only screen and (min-width : 1224px) {
+
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
+
+}

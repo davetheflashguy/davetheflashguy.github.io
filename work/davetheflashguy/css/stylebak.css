@@ -1,0 +1,499 @@
+
+/* =============================================================================
+   Primary styles
+   Author: Dave Collier 
+   ========================================================================== */
+p{
+  color:#666;
+  line-height: 25px;
+  margin-top: 10px;
+  margin-left:10px;
+  margin-right:0px;
+}
+
+h1, h2, h3 {
+  margin: 0px 0px 4px 0px;
+  padding: 0px;
+  color: #003663;
+  font-weight:normal; 
+}
+
+h1{
+  font-size:30px;
+}
+
+h2{
+  font-size:24px;
+}
+
+h3{
+  color:#666;
+  font-size:18px;
+}
+
+ul li{
+  list-style-image:url(../images/custom_bullet_sprite.png);
+  padding-bottom:4px; 
+  line-height: 25px;
+  margin-left: 20px;
+}
+
+ul.thumbnails{
+padding: 0px;
+margin: 0px 0px 0px 10px;   
+}
+
+ul.thumbnails li{
+  list-style-image:none !important;
+  list-style-type:none !important;
+  padding-bottom:0px;     
+}
+
+.thumb{
+float:left;
+padding-left:5px;
+padding-right:15px;
+padding-bottom:5px;
+  
+}
+body {
+  background: #FFF;
+  font-family:'Ubuntu Mono';
+  font-size:18px;
+  margin:0;
+  padding:0;
+  height:100%;
+}
+
+#container{
+  position:relative;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+header {
+  height: 120px;
+  width: 100%;
+  background-image:url(../imgs/header_bg.jpg);
+  background-repeat:repeat-x;
+  margin: 0px;
+  padding: 0px;
+}
+
+#content-header{
+  padding-left:10px;
+  padding-right:10px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#content-nav{
+
+}
+
+#content-footer{
+  padding-left:10px;
+  padding-right:10px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+header #brand{
+  height:72px;
+  top:25px;
+  position:relative;
+  background-image:url(../imgs/logo.png);
+  background-repeat: no-repeat;
+}
+
+nav {
+  height: 45px;
+  padding-left:10px;
+  padding-right:10px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+nav ul {
+  margin: 0; 
+  padding: 0;
+  float: right;
+}
+
+nav ul li{
+  display: inline;
+  font-size:18px;
+  font-weight:bold;
+  color:#666;
+}
+
+ 
+nav ul li a:link, nav ul li a{
+  float: left; 
+  text-decoration: none;
+  padding: 10px 11px;
+  color:#666;
+  background-image:url(../imgs/undsc.png);
+  background-position:left;
+  background-repeat:no-repeat;
+}
+  
+nav ul li a:visited{
+  color:#666;
+}
+
+nav ul li a:active{
+  background-image:url(../imgs/undscr.png);
+  background-position:left;
+  background-repeat:no-repeat;
+  color: red;
+}
+ 
+nav ul li a:hover, nav ul li .current{
+  background-image:url(../imgs/undscr.png);
+  background-position:left;
+  background-repeat:no-repeat;
+  color: red;
+}
+
+#page {
+  background-color: #FFF;
+  padding-left:10px;
+  padding-right:10px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+  
+#banner{
+  margin-left:auto;
+  margin-right:auto;
+  height:215px;
+  width:970px;
+  background-image:url(../imgs/banner-home.jpg);
+  background-repeat:no-repeat;
+  background-position:center;
+  -moz-border-radius:9px;
+  -webkit-border-radius:9px;
+  -khtml-border-radius:9px;
+  border-radius:9px;
+}
+
+footer{
+  bottom: 0px;
+  border-top: 4px solid #f80000;
+  color: #FFF;
+  height: 105px;
+  width: 100%;
+  font-size: 14px;
+  background: #004293; /* Old browsers */
+  background: -moz-linear-gradient(top, #004293 0%, #003664 98%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#004293), color-stop(98%,#003664)); /* Chrome,Safari4+ */
+  background: -ms-linear-gradient(top, #004293 0%,#003664 98%); /* IE10+ */
+  background: linear-gradient(to bottom, #004293 0%,#003664 98%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#004293', endColorstr='#003664',GradientType=0 ); /* IE6-9 */
+}
+
+footer #content-footer{
+  padding-left:10px;
+  padding-right:10px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+footer #left{
+  float: left;
+  text-align: left;
+  margin-top: 20px;
+  padding-left:10px;
+}
+
+footer #right{
+  float: right;
+  text-align: right;
+  margin-top: 20px;
+  padding-right:10px;
+}
+
+footer .item{
+  padding-top: 2px;
+  padding-bottom: 2px;
+
+}
+
+footer .item a:link, footer .item a{
+  color: #FFF;
+  text-decoration: none;
+}
+  
+footer .item a:visited{
+  color: #FFF;
+  text-decoration: none;
+}
+
+footer .item a:active{
+  color: #FFF;
+  text-decoration: none;
+}
+ 
+footer .item a:hover{
+  color: #FFF;
+  text-decoration: underline;
+}
+
+
+footer #icon{
+  float: left;
+  height: 16px;
+  width: 16px;
+}
+
+#navcontainer{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#navcontainer ul{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+#navcontainer ul li { 
+  display: inline; 
+}
+
+#navcontainer ul li a{
+  text-decoration: none;
+  padding: 0px;
+  color: #FFF;
+}
+
+#navcontainer li#icon_list img{
+  height:20px;
+  width:20px;
+}
+
+#main{
+  margin-top: 20px;
+  margin-left:20px;
+  margin-right:20px;
+}
+
+
+
+.underline{
+  border-bottom:#666;
+  border-bottom-style:solid;
+  border-bottom-width:2px;
+  margin-bottom:5px;
+}
+.redunderline{
+  border-bottom:#F00;
+  border-bottom-style:solid;
+  border-bottom-width:2px;
+  margin-bottom:5px;
+}
+
+.halfColumnLeft {
+  color:#666;
+  width:460px;
+  margin-top:10px;
+  margin-left:20px;
+  float:left; 
+}
+
+.half_content_wrapper{
+  height: 200px;
+  overflow: auto;
+}
+
+.halfColumnRight {
+  color:#666;
+  width:460px;
+  margin-top:10px;
+  margin-right:10px;
+  float:right;  
+}
+
+
+.halfColumnLeft p,
+.halfColumnRight p{
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.halfColumnLeft img,
+.halfColumnRight img{
+  margin:5px;
+}
+.more{
+  float:right;
+  font-weight:bold;
+  color:#666;
+  padding-bottom: 30px;
+  margin-right: 15px;
+
+}
+
+.more a:link,.more a:active,.more a:visited{
+  text-decoration:none;
+  color:#666; 
+}
+
+.more a:hover{
+  text-decoration:none;
+  color:#F00; 
+} 
+
+.more a:hover span{
+  height:15px !important;
+  border-bottom:solid #F00; 
+} 
+.description{
+  line-height: 20px;
+}
+
+/* =============================================================================
+   Primary styles
+   Author: Dave Collier 
+   ========================================================================== */
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+  p{
+    /* line-height: 25px; */
+  }
+
+  h1{
+    /* font-size:30px; */
+  }
+
+  h2{
+    /* font-size:24px; */
+  }
+
+  h3{
+    /* font-size:18px; */
+  }
+
+  body{
+    /* font-size: */
+  }
+
+  header{
+    height: 90px;
+    background-image:url(../imgs/media_queries/ipad/landscape/header_bg.jpg);
+  }
+
+  #content-nav{
+    
+  }
+
+  #page{
+    
+  }
+
+  #content-footer{
+    
+  }
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+  p{
+    /* line-height: 25px; */
+  }
+
+  h1{
+    /* font-size:30px; */
+  }
+
+  h2{
+    /* font-size:24px; */
+  }
+
+  h3{
+    /* font-size:18px; */
+  }
+
+  body{
+    /* font-size: */
+  }
+
+  header{
+    background-image:url(../imgs/media_queries/ipad/landscape/header_bg.jpg);
+  }
+
+  #content-nav{
+    
+  }
+
+  #page{
+    
+  }
+
+  #content-footer{
+    
+  }
+
+}
+
+/* Desktops and laptops ----------- */
+@media only screen and (min-width : 1224px) {
+  p{
+    /* line-height: 25px; */
+  }
+
+  h1{
+    /* font-size:30px; */
+  }
+
+  h2{
+    /* font-size:24px; */
+  }
+
+  h3{
+    /* font-size:18px; */
+  }
+
+  body{
+    /* font-size: */
+  }
+
+  header{
+    /*width: 990px;*/
+  }
+
+  nav{
+    width: 990px;
+  }
+
+  #content-nav{
+    margin-left: 0px;
+  }
+
+  #content-header{
+    width: 990px;
+  }
+
+  #page{
+    width: 990px;
+  }
+
+  #content-footer{
+    width: 990px;
+  }
+  
+}
+
+
+/* iPhone 4 ----------- */
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
+
+}
