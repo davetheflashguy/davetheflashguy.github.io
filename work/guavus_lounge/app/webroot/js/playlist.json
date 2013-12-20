@@ -1,0 +1,6 @@
+[{
+	"Item":{"id":"1", "title":"Max Payne 3 - Official Trailer #2", "thumbUri":"../../media/max-payne-3/640.jpg", "posterUri":"../../media/max-payne-3/640.jpg", "videoUri":"../../media/max-payne-3/maxpayne3-en_us-trailer2-640.mp4"}},{
+	"Item":{"id":"2", "title":"LA Noire Payne 3", "thumbUri":"media/la-noire/640.jpg", "posterUri":"media/la-noire/640.jpg", "videoUri":"media/la-noire/lanoire-en_us-pclaunch-mp4-640.mp4"}},{
+	"Item":{"id":"3", "title":"GTA 3 - 10 Year Anniversary Edition", "thumbUri":"media/gta-3/640.jpg", "posterUri":"media/gta-3/640.jpg", "videoUri":"media/gta-3/grandtheftauto3-ipadtrailer-en_us-640.mp4"}},{
+	"Item":{"id":"4", "title":"Max Payne 3 - Targeting and Weapons", "thumbUri":"media/max-payne-3/640-2.jpg", "posterUri":"media/max-payne-3/640.jpg", "videoUri":"media/max-payne-3/maxpayne3-en_us-designtech2-640.mp4"}}
+]

@@ -1,0 +1,25 @@
+form div.submit {
+ 	display:inline !important;
+ 	float:left !important;
+ 	clear:none;
+ }
+
+ .ui-dialog-titlebar {
+	background:white !important;
+    border-style:none !important;
+    display:none !important;
+ }
+          
+ .ui-dialog {
+    border-radius: 10px !important;
+	-moz-border-radius: 10px !important;
+ }
+ .ui-widget-overlay {
+	//height:1000px !important;
+ }
+
+ body {
+ 	background:#000000 !important;
+ 	
+ }
+

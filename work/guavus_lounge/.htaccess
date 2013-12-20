@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+   RewriteRule    ^$ app/webroot/    [L]
+   RewriteRule    (.*) app/webroot/$1 [L]
+</IfModule>
+
+AddType video/ogg .ogv
+AddType video/mp4 .mp4
+AddType video/webm .webm

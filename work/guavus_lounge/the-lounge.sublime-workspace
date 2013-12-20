@@ -1,0 +1,917 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hn",
+				"hnFP"
+			],
+			[
+				"partn",
+				"PARTNERS"
+			],
+			[
+				"part",
+				"partnerName"
+			],
+			[
+				"produc",
+				"product"
+			],
+			[
+				"admin",
+				"admindefault"
+			],
+			[
+				"dum",
+				"var_dump"
+			],
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"_ga",
+				"_gaObj"
+			],
+			[
+				"_ca",
+				"_callCounter"
+			],
+			[
+				"laz",
+				"lazyLoader"
+			],
+			[
+				"con",
+				"construct"
+			],
+			[
+				"init",
+				"initialization"
+			],
+			[
+				"current",
+				"currentTime"
+			],
+			[
+				"is",
+				"isInitialized"
+			],
+			[
+				"ON",
+				"ON_LOAD"
+			],
+			[
+				"first",
+				"FIRST_QUARTILE"
+			],
+			[
+				"exter",
+				"externalCallCounter"
+			],
+			[
+				"la",
+				"lazyLoaderArray"
+			],
+			[
+				"vid",
+				"videoTitle"
+			],
+			[
+				"_",
+				"_category"
+			],
+			[
+				"log",
+				"logTotalView"
+			],
+			[
+				"vide",
+				"videoID"
+			],
+			[
+				"pla",
+				"playlistID"
+			],
+			[
+				"comp",
+				"companaionContent"
+			],
+			[
+				"addur",
+				"adDurationIntervalCounter"
+			],
+			[
+				"reset",
+				"resetCounter"
+			],
+			[
+				"pre",
+				"PREROLL"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"ADS",
+				"ADS"
+			],
+			[
+				"new",
+				"newAdLoaded"
+			],
+			[
+				"Obj",
+				"Object"
+			],
+			[
+				"cap",
+				"campaign"
+			],
+			[
+				"custo",
+				"customerkeys"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"play",
+				"playerTime"
+			],
+			[
+				"flow",
+				"flowplayer"
+			],
+			[
+				"vi",
+				"videoDurationInterval"
+			],
+			[
+				"fou",
+				"FOURTH_QUARTILE"
+			],
+			[
+				"thir",
+				"THRID_QUARTILE"
+			],
+			[
+				"sec",
+				"SECOND_QUARTILE"
+			],
+			[
+				"qa",
+				"quartileObj"
+			],
+			[
+				"video",
+				"videoDurationInterval"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"marg",
+				"margin	margin-top: length"
+			],
+			[
+				"js",
+				"jscatarray"
+			],
+			[
+				"get",
+				"getAccount"
+			],
+			[
+				"player",
+				"playersObj"
+			],
+			[
+				"catr",
+				"categoryObj"
+			],
+			[
+				"catego",
+				"categoryObj"
+			],
+			[
+				"ini",
+				"INITIALIZED"
+			],
+			[
+				"actio",
+				"actionsObj"
+			],
+			[
+				"flo",
+				"FLOW_PLAYER"
+			],
+			[
+				"ac",
+				"actionsObj"
+			],
+			[
+				"Obje",
+				"object"
+			],
+			[
+				"event",
+				"eventsQueue"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"cus",
+				"customerkeys"
+			],
+			[
+				"font",
+				"font	font-weight: weight"
+			],
+			[
+				"padd",
+				"padding	padding-top: length"
+			],
+			[
+				"isD",
+				"isDemo"
+			],
+			[
+				"paddi",
+				"padding	padding-top: length"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"margin",
+				"margin	margin-top: length"
+			],
+			[
+				"m",
+				"margin	margin-right: length"
+			],
+			[
+				"padding",
+				"padding	padding-right: length"
+			],
+			[
+				"pad",
+				"padding	padding-top: length"
+			],
+			[
+				"me",
+				"media"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"click",
+				"clickTracking"
+			],
+			[
+				"cli",
+				"clickTag1"
+			],
+			[
+				"clickThr",
+				"clickThroughUrl"
+			],
+			[
+				"onClick",
+				"onClickThrough"
+			],
+			[
+				"clickT",
+				"ClickThrough"
+			],
+			[
+				"Clic",
+				"clickThrough"
+			],
+			[
+				"playlistLe",
+				"playlistLegendLeft"
+			],
+			[
+				"cofi",
+				"configObj"
+			],
+			[
+				"cong",
+				"Config"
+			],
+			[
+				"v",
+				"videoDivId"
+			],
+			[
+				"co",
+				"configObj"
+			],
+			[
+				"curr",
+				"currVideoObj"
+			],
+			[
+				"update",
+				"updatePosterImage"
+			],
+			[
+				"po",
+				"poster"
+			],
+			[
+				"debug",
+				"debugMode"
+			],
+			[
+				"pl",
+				"playlistPosition"
+			],
+			[
+				"udate",
+				"updateLegend"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"playlist",
+				"playlistLegendContainer"
+			],
+			[
+				"pls",
+				"playlist"
+			],
+			[
+				"bor",
+				"border	border-left-style: style"
+			],
+			[
+				"border",
+				"border	border-color: color"
+			],
+			[
+				"obje",
+				"Object"
+			],
+			[
+				"playl",
+				"Playlist"
+			],
+			[
+				"cofig",
+				"Config"
+			],
+			[
+				"now",
+				"nowPlayingContainer"
+			],
+			[
+				"Player",
+				"Player"
+			],
+			[
+				"set",
+				"setPlaylist"
+			],
+			[
+				"confi",
+				"configObj"
+			],
+			[
+				"conf",
+				"configObj"
+			],
+			[
+				"config",
+				"configLoaded"
+			],
+			[
+				"_vid",
+				"_vidObj"
+			],
+			[
+				"resu",
+				"resumeVideo"
+			],
+			[
+				"res",
+				"resumeVideo"
+			],
+			[
+				"pa",
+				"pause"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"what",
+				"whatsPlayingReference"
+			],
+			[
+				"obj",
+				"Object"
+			],
+			[
+				"media",
+				"mediaObj"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pt",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "build.properties",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/source/actionscript/flash_framework_ccrd/widgets/WidgetManager.as",
+		"/C/Users/Dave/Desktop/Finish making dev account profile and flag in func",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/deploy/hnFPGoogleAnalyticsAbstract.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/javascript/hnFPGoogleAnalyticsAbstract.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/javascript/hnFPSinglePixelTrackers.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/deploy/fp_liverail_video_click_tracking_test.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/deploy/hnFPSingle300x600_all.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/deploy/fp_google_analytics_test.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/javascript/hnFPSingle300x600AdShell.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Dave/Desktop/hnFPGoogleAnalyticsAbstract.js",
+		"/C/xampp/htdocs/xampp/lang.php",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/readme.1st",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.2.0/BrightCove-6.2.2.0.sublime-workspace",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer_tagbuilder/branches/0.3.1.0/js/tagbuilder.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer_tagbuilder/branches/0.3.1.0/js/environment.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer_tagbuilder/branches/0.3.1.0/index.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/scripts/generate_deploy_package.sh",
+		"/C/Users/Dave/Desktop/generate_deploy_package.sh",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer_tagbuilder/branches/0.3.1.0/js/preview.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/flowplayer.sublime-project",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/trunk/deploy/bc_ga_test.html",
+		"/C/xampp/htdocs/xampp/clients/davecollierconsulting/popcorn/js/player-1.0.5.js",
+		"/C/Users/Dave/Desktop/Disney",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.2.0/actionscript/BrightcovePlayer.as",
+		"/C/Users/Dave/workspace/BrightcovePlayer-6.2.2.0/BrightCove-6.2.2.0.sublime-project",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.1.1/deploy/hnplayer.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.1.1/deploy/hnBLoader.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.1.1/actionscript/com/healthination/GAAction.as",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.1.1/actionscript/com/healthination/GACategory.as",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/tagbuilder/js/tagbuilder.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/tagbuilder/js/environment.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/tagbuilder/js/tagconfig.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/tagbuilder/js/armorizer.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/scripts/deploy_tag.sh",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.1.1/javascript/hnplayer.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.1.1/javascript/hnBLoader.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/deploy/fp_liverail_local_test.html",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/webroot/css/core.css",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/webroot/css/cda.css",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/webroot/css/datatables_page.css",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/webroot/js/video.min.js",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/webroot/php.ini",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/Config/database.php",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/Config/bootstrap.php",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Demo/index.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/Controller/ActivityController.php",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/Controller/DemoController.php",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Demo/admindefault.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Layouts/menu.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Demo/menu.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/Controller/SolutionsController.php",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Layouts/_default.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Customerkeys/index.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Demo/solution.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Activity/test.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Demo/login.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Layouts/default.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Demo/admin.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/Controller/CustomerkeysController.php",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Customerkeys/add.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Elements/customerkeys/form.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/webroot/js/cms.js",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Demo/index.ctp.slider",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.1.1/javascript/hnBCGoogleAnalyticsAbstract.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.1.1/deploy/bc_google_analytics_test.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/deploy/hn300x600adshell.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0.0/BrightCovePlayer.sublime-project",
+		"/C/Users/Dave/workspace/BCVideoPlayer-LastestDev/.project",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Solutions/index.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Elements/solutions/form.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Elements/solutions/index.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Layouts/admin.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Solutions/edit.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Solutions/add.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Customerkeys/edit.ctp",
+		"/C/Users/Dave/Downloads/db142893_lounge.sql",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/FlashSourceCode/Projects/CCInPagePlayer/actionscript/api/AudioPlayer.as",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/FlashSourceCode/Projects/CCInPagePlayer/actionscript/api/AdManager.as",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/FlashSourceCode/Projects/CCInPagePlayer/actionscript/api/MediaManager.as",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/FlashSourceCode/Projects/CCInPagePlayer/actionscript/api/VideoPlayer.as",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/FlashSourceCode/Projects/CCInPagePlayer/actionscript/api/Player.as",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/FlashSourceCode/Projects/CCInPagePlayer/actionscript/interfaces/IPlayer.as",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/FlashSourceCode/Projects/CCInPagePlayer/actionscript/net/apiLoader/APILoader.as",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/FlashSourceCode/Projects/CCInPagePlayer/actionscript/util/FirebugConsoleLogger.as",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/FlashSourceCode/Projects/CCInPagePlayer/actionscript/events/PlayerEvent.as",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/FlashSourceCode/Projects/CCGMPlayer/src/CCGMPlayer.as",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/FlashSourceCode/Projects/CCInPagePlayer/actionscript/com/clearchannel/controller/InPageController.as",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/FlashSourceCode/Projects/CCInPagePlayer/actionscript/com/clearchannel/controller/EmbedController.as",
+		"/C/Users/Dave/Desktop/hnFPSingle300x600AdShell.js",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/Controller/AppController.php",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/source/webfarm/Controller/Player.php",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/source/webfarm/Controller/Onair.php",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/source/webfarm/Controller/MediaLibrary.php",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/source/webfarm/Api/OnAir.php",
+		"/Z/Shared Software/ClearChannelLaptopBackUp/work_files/source/webfarm/Cms/CmsMedia.php",
+		"/C/Users/Dave/Desktop/Animoto",
+		"/C/xampp/htdocs/xampp/clients/davecollierconsulting/index.html",
+		"/C/xampp/htdocs/xampp/clients/davecollierconsulting/services.html",
+		"/C/xampp/htdocs/xampp/clients/davecollierconsulting/about.html",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Activity/index.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Layouts/cda.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/guavus_lounge/app/View/Solutions/add.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/guavus_lounge/app/View/Layouts/admin.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/guavus_lounge/app/View/Customerkeys/add.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/guavus_lounge/app/View/Elements/solutions/index.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/guavus_lounge/app/View/Solutions/index.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/webroot/css/datatables_table.css",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Customerkeys/Demo/login.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/guavus_lounge/app/View/Layouts/default.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Customerkeys/Demo/index.ctp.slider",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Customerkeys/Demo/index.ctp",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/webroot/css/calendar.css",
+		"/C/Users/Dave/AppData/Local/Temp/Temp1_uploading_files_source.zip/app/views/posts/admin_edit.thtml",
+		"/C/Users/Dave/AppData/Local/Temp/Temp1_uploading_files_source.zip/app/views/posts/edit.thtml",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/Model/Customerkey.php",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/Model/Solution.php",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/webroot/css/cms.js",
+		"/C/xampp/htdocs/xampp/clients/guavus/guavus_lounge/app/webroot/js/cms.js",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/index.php",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/deploy/ga-test-calls.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/deploy/Gradient_1920_c2.jpg",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/.htaccess",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/webroot/.htaccess",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/View/Layouts/viewlayout.ctp",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/html/fp_ga_test.html",
+		"/C/xampp/htdocs/xampp/clients/guavus/lounge/app/index.php",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.1.0/deploy/hnFP.GATestCall('Playlists','TotalViews', 'HN-Test"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\xampp\\clients\\healthiNation\\player\\branches\\6.2.1.1\\",
+			"C:\\xampp\\htdocs\\xampp\\clients\\healthiNation\\flowplayer\\branches\\0.3.1.0",
+			"C:\\xampp\\htdocs\\xampp\\clients\\guavus\\lounge\\app",
+			"C:\\xampp\\htdocs\\xampp\\clients\\healthiNation\\flowplayer_tagbuilder\\branches\\0.3.1.0",
+			"C:\\xampp\\htdocs\\xampp\\clients\\guavus\\guavus_lounge\\app",
+			"C:\\xampp\\htdocs\\xampp\\clients\\healthiNation\\",
+			"C:\\xampp\\htdocs\\xampp\\clients\\healthiNation\\flowplayer",
+			"C:\\xampp\\htdocs\\xampp\\clients\\guavus\\guavus_lounge\\waltertschwe-guavus-a698b0c\\app\\webroot",
+			"C:\\xampp\\htdocs\\xampp\\clients\\guavus\\guavus_lounge\\waltertschwe-guavus-a698b0c",
+			"C:\\Users\\Dave\\Work\\clients\\healthiNation",
+			"C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\outs",
+			"C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app,C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app\\View,C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app\\View\\Layouts,C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app\\View\\Maps",
+			"C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app",
+			"",
+			"C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"logTotalView",
+			"campaign",
+			"getAccount",
+			"debug",
+			"getAccount",
+			"console.log",
+			"hnFP.p.partnerName",
+			"lazyLoader",
+			"logDurationWatched",
+			"logQuartileMilestone",
+			"CAMPAIGNS",
+			"logDurationWatched",
+			"logQuartileMilestone",
+			"psuedo",
+			"hnTB.getAbsoluteURLforTag",
+			"iframe",
+			"lr_comp_300x250",
+			"companion",
+			"onStart",
+			"hnTB.parseUri = functi",
+			"logQuartileMilestone",
+			"logTotalView",
+			"flashvars",
+			"console.log",
+			"partnerID",
+			"part",
+			"partner",
+			"partnerID",
+			"hnFP.p.partnerID",
+			"partner",
+			"partnerName",
+			"logQuartileMilestone",
+			"totalviews",
+			"partner",
+			"logDuration",
+			"newVideoLoaded",
+			"logQuartileMilestone",
+			"quarter",
+			"load method",
+			"preserveLegacyMetrics",
+			"console.log",
+			"console.logf",
+			"loop",
+			"videoAutoPlay",
+			"SliderAd",
+			"canFire",
+			"console.lcanFire",
+			"console.l",
+			"onStart",
+			"videoAutoPlay",
+			"clickToPlay",
+			"Ad Zone",
+			"adDataSelectionToggle",
+			"manual",
+			"toggleAdMode",
+			"admin",
+			"tool-bar",
+			"/lounge/activity/logdata",
+			"launch-demo",
+			"?>\n",
+			"nav",
+			"demo",
+			"sideb",
+			"item",
+			"ftw",
+			"key-word-form",
+			"arrow.png",
+			"core.css",
+			"sidebar",
+			".mp4",
+			".ppt",
+			"feedback",
+			"download",
+			"modVP",
+			"console.log",
+			"INIT",
+			"init",
+			"hnGA.newVideo",
+			"hnGA.load",
+			"hnGA.load\\",
+			"hnGA.load",
+			"hnGA.",
+			"hnGA.preserveLegacyMetrics",
+			"trackProgress",
+			"Load Method Called ",
+			"hnFP",
+			"preserveLegacyMetrics",
+			"trackProgress",
+			"tracProgress",
+			"trackProgress",
+			"hnB.getUrlVars",
+			"console.log",
+			"}\n",
+			"lazyLoader.load",
+			"lazyLoader",
+			"videoAutoPlay",
+			"lazyLoad",
+			"isDebug",
+			"hnFP.base64",
+			"parternName",
+			"parternID",
+			"console.log",
+			"RESUME",
+			"version",
+			"onLoa",
+			"onLoad",
+			"preserveLegacyMetrics",
+			"newVideoLoaded",
+			"logQuartileMilestone",
+			"logDurationWatched",
+			"onStart",
+			"partnerID",
+			"environment",
+			"getAbsoluteURLforTag",
+			"$('#environment')",
+			"newVideoLoaded",
+			"hnFP.p.partner",
+			"logDurationWatched",
+			"hnGA.logDurationWatched",
+			"	hnGA.lazyLoad",
+			"Ads | Preroll",
+			"QuartilesWatched-75",
+			"QuartilesWatched-50",
+			"QuartilesWatched-25",
+			"hnGA.lazyLoad",
+			"var gaObj = new Object();",
+			"lazyLoad",
+			"logInitialization"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hnB",
+			"partnerName",
+			"",
+			"var gaObj = new Object();",
+			"hnGA.lazyLoad(gaObj);",
+			"gaObj.category",
+			"hnGA.gaObj.category",
+			"hnGA.determineMediaMilestones ",
+			"hnGA.mediaTimePlayed",
+			"hnGA.mediaDurationInterval",
+			"hnGA.mediaObj.playlistAssocId",
+			"hnGA.mediaObj.id",
+			"hnGA.mediaObj.duration",
+			"mediaObj.mediaId",
+			"mediaObj",
+			"hnGA.preserveLegacyMetrics",
+			"_arr.push",
+			"])",
+			"([",
+			"222222",
+			"",
+			"clickTracking",
+			"clickTag",
+			"item",
+			"E",
+			"D",
+			"$term",
+			"403px",
+			"403",
+			"",
+			"<?php echo Configure::read('WEB_ROOT');?>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "build.properties",
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/JavaProperties.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true
+}

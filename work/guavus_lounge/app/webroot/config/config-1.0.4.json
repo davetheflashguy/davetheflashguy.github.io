@@ -1,0 +1,13 @@
+[
+	{
+		"Config":
+				{
+					"height" : "360",
+					"width" : "640",
+					"videoDivId":"#playerContainer",
+					"nowPlayingDivId":"#nowPlayingContainer",
+					"playlistDivId":"#playlistContainer",
+					"playlistUrl":"../../js/playlist.json"
+				}
+	}
+]

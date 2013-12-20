@@ -1,0 +1,185 @@
+body {font: normal 16px/1.5em helvetica, arial, sans-serif}
+p {text-align:center}
+
+#container {
+	width:1400px;
+	margin:20px auto;
+}
+
+#header {
+	text-align:center;
+	height:50px;
+	padding:5px;
+}
+
+#content {
+	float:left;
+	width:1400px;
+	text-align:center;
+	padding-bottom:150px;
+	
+	
+}
+
+#sidebar {
+	float:left;
+	width:150px;
+	text-align:center;
+	height:100px;
+	padding:150px 5px
+}
+
+#footer {
+}
+
+#title {
+	padding-top:10px;
+	font-size:25px;
+	font-family:Arial,Helvetica,sans-serif;
+}
+#flash {
+	color:red;
+	padding-top:15px;
+	
+}
+
+#nav ul {
+	padding-right:55px;
+	list-style:none;
+}
+#nav li {
+	display:inline;
+	padding:15px;
+}
+
+#logo {
+	float:left;
+}
+
+#new-key {
+	padding-left:225px;
+	float:right;
+}
+
+/* FOR BROWSERS THAT DON'T SUPPORT CSS3 */
+    input, textarea {  
+        padding: 9px;  
+        border: solid 1px #E5E5E5;  
+        outline: 0;  
+        font: normal 13px/100% Verdana, Tahoma, sans-serif;  
+        width: 200px;  
+        background: #FFFFFF url('bg_form.png') left top repeat-x;  
+        background: -webkit-gradient(linear, left top, left 25, from(#FFFFFF), color-stop(4%, #EEEEEE), to(#FFFFFF));  
+        background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);  
+        box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;  
+        -moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;  
+        -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;  
+        }  
+      
+    textarea {  
+        width: 400px;  
+        max-width: 400px;  
+        height: 150px;  
+        line-height: 150%;  
+        }  
+      
+    input:hover, textarea:hover,  
+    input:focus, textarea:focus {  
+        border-color: #C9C9C9;  
+        -webkit-box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 8px;  
+        }  
+      
+    .form label {  
+        margin-left: 10px;  
+        color: #999999;  
+        }  
+      
+    .submit input {  
+        width: auto;  
+        padding: 9px 15px;  
+        background: #617798;  
+        border: 0;  
+        font-size: 14px;  
+        color: #FFFFFF;  
+        -moz-border-radius: 5px;  
+        -webkit-border-radius: 5px;  
+        }  
+
+/* END FOR BROWSERS THAT DON'T SUPPORT CSS3 */
+
+.form{
+	font-family: Verdana;    
+	font-size:1em;
+	margin:1em;
+	padding:1em;	
+}
+
+.form p.formtitle{
+	color: #026475;
+	font-size:1.3em;
+	font-weight: bold;
+}
+
+.form fieldset{
+	width:40em;
+	border:1px solid #FFE545;	
+	background-image: url(../img/Contact.png);
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+
+.form fieldset legend{
+	color: #026475;
+}
+
+.formfield{
+	width:30em;
+	padding:5px;
+}
+
+.formfield label{
+	display:block;
+	float:left;
+	width:12em;
+	padding:1px;
+	color:#C2A34F;
+	text-align:right;
+}
+
+.formfield input, .formfield  select{
+	padding:0.15em;
+	width:14em;
+	border:1px solid #ddd;
+	background:#FEFBAF;
+	
+	font-family: Verdana;    
+	font-size:1em;
+	
+	-moz-border-radius:0.4em;
+	-khtml-border-radius:0.4em;
+}
+
+.formfield input:hover, input:focus {
+	border-color:#c5c5c5;
+	background:#f6f6f6;
+} 
+
+.required input {
+	border:1px solid #FBB829;
+}
+
+.form .submit input{
+	font-family: Verdana;    
+	font-size:1em;
+	margin-top: 0.3em;
+}
+
+.formerror{
+	position:relative;
+	left:12.1em;
+	color:#FBB829;
+}
+	
+	.prod-items {
+		display:none;
+	}

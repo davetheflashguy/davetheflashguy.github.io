@@ -1,0 +1,21 @@
+#wrap {
+	width:750px;
+    margin:0 auto;
+   
+}
+#main {
+    float:left;
+    width:500px;
+    padding-top: 250px;  
+}
+#sidebar {
+	padding-bottom:175px;
+    float:right;
+    width:250px;
+}
+#demo {
+	  padding-top:225px;
+}
+#admin {
+	 padding-top:75px;
+}
