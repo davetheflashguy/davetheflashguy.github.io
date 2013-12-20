@@ -1,0 +1,64 @@
+#container
+{
+	width:890px;
+	margin:auto;
+}
+
+#playerContainer
+{
+	float: left; 
+	background: #000000; 
+	width: 640px; 
+	height:360px
+}
+
+#nowPlayingContainer
+{
+	height:80px;
+	width:640px;
+	color: #000000;
+	font-family:arial, helvetica;
+	font-size:32px; 
+	font-weight:bold;
+}
+
+#playlistContainer
+{
+	padding-left: 20px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: 999;
+	float: left; 
+	background: #FFFFFF; 
+	width: 228px; 
+	height:360px;
+	/*overflow: scroll;	*/
+}
+
+#playlist 
+{
+	list-style: none;
+	width: 210px;
+	padding: 0px;
+	margin: 0px;
+}
+
+#playlist li 
+{
+	display: block;
+	padding: 0px; 
+	margin-bottom: 2px;
+	background-color: #efefef;
+	border-style: solid;
+	border-width: 1px;
+	border-color: 999;
+	height:30px; 
+	width: 210px;
+	cursor:pointer;
+}
+
+#playlistItem
+{
+	font-family:helvetica, arial;
+	font-size:11px
+}

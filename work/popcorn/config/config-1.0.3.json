@@ -1,0 +1,12 @@
+[
+	{
+		"Config":
+				{
+					"height" : "360",
+					"width" : "640",
+					"videoDivId":"#playerContainer",
+					"nowPlayingDivId":"#nowPlayingContainer",
+					"playlistUrl":"http://localhost/popcorn/js/playlist.json"
+				}
+	}
+]

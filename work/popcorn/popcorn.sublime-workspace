@@ -1,0 +1,525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"resu",
+				"resumeVideo"
+			],
+			[
+				"pl",
+				"playing"
+			],
+			[
+				"res",
+				"resumeVideo"
+			],
+			[
+				"pa",
+				"pause"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"what",
+				"whatsPlayingReference"
+			],
+			[
+				"video",
+				"videoUri"
+			],
+			[
+				"play",
+				"playList"
+			],
+			[
+				"obj",
+				"Object"
+			],
+			[
+				"media",
+				"mediaObj"
+			],
+			[
+				"playlist",
+				"playlistLoaded"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pt",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Dave/Desktop/Questions for Kyle",
+			"settings":
+			{
+				"buffer_size": 1352,
+				"line_ending": "Windows",
+				"name": "Questions for Kyle"
+			}
+		},
+		{
+			"contents": "Unicast Delivery\nTotal Viewing Hours\n",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Windows",
+				"name": "Unicast Delivery"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/popcorn/js/playlist.json",
+		"/C/wamp/www/popcorn/css/demo-1.0.0.css",
+		"/C/wamp/www/popcorn/js/player-1.0.0.js",
+		"/C/wamp/www/popcorn/index-1.0.0.html",
+		"/C/wamp/www/popcorn/index-player-archive.html",
+		"/C/wamp/www/popcorn/index.html",
+		"/C/wamp/www/popcorn/popcorn.sublime-project",
+		"/C/Users/Dave/Work/clients/davetheflashguy/popcorn/js/playlist.json",
+		"/C/Users/Dave/Work/clients/davetheflashguy/popcorn/js/Player.js",
+		"/C/Users/Dave/Work/clients/davetheflashguy/popcorn/css/demo.css",
+		"/C/Users/Dave/Desktop/jolly-sumanta",
+		"/C/Users/Dave/Work/clients/davetheflashguy/popcorn/index.html",
+		"/C/Users/Dave/Work/clients/davetheflashguy/popcorn/popcorn.sublime-project",
+		"/C/Users/Dave/Work/clients/dxagency/toshiba_maps/app/webroot/css/main.css",
+		"/C/Users/Dave/Work/clients/dxagency/toshiba_maps/app/webroot/js/map.js",
+		"/C/Users/Dave/Work/clients/guavas/vdms/mocks/TODO",
+		"/C/Users/Dave/Desktop/notes",
+		"/C/Users/Dave/Desktop/prod-key",
+		"/C/Users/Dave/Desktop/Go to maria's house go to end of the block",
+		"/C/Users/Dave/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/WWYOJR5W/email.txt",
+		"/C/Users/Dave/Work/clients/guavas/vdms/mocks/v2.0/FollowUpWithKyle",
+		"/C/Users/Dave/Downloads/tv-xml/on_gallery_tvbanners_20120130.xml",
+		"/C/Users/Dave/Downloads/tv-xml/on_tv_programs-up_20120130.xml",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-25/xbox/9 Client Profile Usage Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/Fiox_Charts_Generator/Configuration_XBOX_vs_IPAD.properties",
+		"/C/Users/Dave/Work/clients/guavas/xbox/Fiox_Charts_Generator/Configuration_IPAD.properties",
+		"/C/Users/Dave/Work/clients/guavas/xbox/Fiox_Charts_Generator/Configuration_XBOX.properties",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/8 Channel Popularity_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/xbox/5 Unique By Location_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/xbox/10 Client Profile Usage Chart HD_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/xbox/1 Peak Audience Chart Data_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/xbox/3 Total Unique Chart Data_ XBOX.txt",
+		"/C/Users/Dave/Desktop/ups-tracker",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/1 Peak Audience Chart Data_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/2 Total GB Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/3 Total Unique Chart Data_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/4 Peak Conc Audience By Location Data_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/5 Unique By Location_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/6 Avg Duration Per Channel Location_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/7 Avg Channel Changing Freq Chart Data_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/9 Client Profile Usage Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/xbox/9 Client Profile Usage Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/10 Client Profile Usage Chart HD_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/11 Client Profile Usage Chart SD_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/12 Rate Adaption Profile Change Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/13 Rate Adaption Profile Change By Location Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/14 View Session sper Channel_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-24/ipad/15 Avg FiOS Session Duration Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox_vs_ipad/4 Average FiOS Session Duration By Device Type_ XBOX_VS_IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox_vs_ipad/3 Download Volume By Device Type_ XBOX_VS_IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox_vs_ipad/2 Unique Viewers By Device Type_ XBOX_VS_IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox_vs_ipad/1 View Sessions By Device Type_ XBOX_VS_IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/15 Avg FiOS Session Duration Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/14 View Session sper Channel_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/13 Rate Adaption Profile Change By Location Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/12 Rate Adaption Profile Change Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/11 Client Profile Usage Chart SD_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/10 Client Profile Usage Chart HD_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/9 Client Profile Usage Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/8 Channel Popularity_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/7 Avg Channel Changing Freq Chart Data_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/6 Avg Duration Per Channel Location_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/5 Unique By Location_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/4 Peak Conc Audience By Location Data_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/3 Total Unique Chart Data_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/2 Total GB Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/xbox/1 Peak Audience Chart Data_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/15 Avg FiOS Session Duration Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/14 View Session sper Channel_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/13 Rate Adaption Profile Change By Location Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/12 Rate Adaption Profile Change Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/11 Client Profile Usage Chart SD_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/10 Client Profile Usage Chart HD_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/9 Client Profile Usage Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/8 Channel Popularity_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/7 Avg Channel Changing Freq Chart Data_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/6 Avg Duration Per Channel Location_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/5 Unique By Location_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/4 Peak Conc Audience By Location Data_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/3 Total Unique Chart Data_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/2 Total GB Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-23/ipad/1 Peak Audience Chart Data_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox_vs_ipad/4 Average FiOS Session Duration By Device Type_ XBOX_VS_IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox_vs_ipad/3 Download Volume By Device Type_ XBOX_VS_IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox_vs_ipad/2 Unique Viewers By Device Type_ XBOX_VS_IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox_vs_ipad/1 View Sessions By Device Type_ XBOX_VS_IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/15 Avg FiOS Session Duration Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/14 View Session sper Channel_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/13 Rate Adaption Profile Change By Location Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/12 Rate Adaption Profile Change Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/11 Client Profile Usage Chart SD_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/10 Client Profile Usage Chart HD_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/9 Client Profile Usage Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/8 Channel Popularity_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/7 Avg Channel Changing Freq Chart Data_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/6 Avg Duration Per Channel Location_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/5 Unique By Location_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/4 Peak Conc Audience By Location Data_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/3 Total Unique Chart Data_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/2 Total GB Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/xbox/1 Peak Audience Chart Data_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/14 View Session sper Channel_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/15 Avg FiOS Session Duration Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/13 Rate Adaption Profile Change By Location Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/12 Rate Adaption Profile Change Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/11 Client Profile Usage Chart SD_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/10 Client Profile Usage Chart HD_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/9 Client Profile Usage Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/8 Channel Popularity_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/7 Avg Channel Changing Freq Chart Data_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/6 Avg Duration Per Channel Location_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/5 Unique By Location_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/4 Peak Conc Audience By Location Data_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/3 Total Unique Chart Data_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/2 Total GB Chart_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-22/ipad/1 Peak Audience Chart Data_ IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-14/xbox_vs_ipad/4 Average FiOS Session Duration By Device Type_ XBOX_VS_IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-14/xbox_vs_ipad/3 Download Volume By Device Type_ XBOX_VS_IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-14/xbox_vs_ipad/2 Unique Viewers By Device Type_ XBOX_VS_IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-14/xbox_vs_ipad/1 View Sessions By Device Type_ XBOX_VS_IPAD.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-14/xbox/15 Avg FiOS Session Duration Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-14/xbox/14 View Session sper Channel_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-14/xbox/13 Rate Adaption Profile Change By Location Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-14/xbox/12 Rate Adaption Profile Change Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-14/xbox/11 Client Profile Usage Chart SD_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-14/xbox/10 Client Profile Usage Chart HD_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-14/xbox/9 Client Profile Usage Chart_ XBOX.txt",
+		"/C/Users/Dave/Work/clients/guavas/xbox/generated_reports/2012-01-14/xbox/8 Channel Popularity_ XBOX.txt"
+	],
+	"find":
+	{
+		"height": 136.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\outs",
+			"C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app,C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app\\View,C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app\\View\\Layouts,C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app\\View\\Maps",
+			"C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app",
+			"",
+			"C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setVideoSource",
+			"videoContainer",
+			"header",
+			"footer",
+			"setVideoSource",
+			"\"Location\":",
+			"\":{",
+			":{",
+			"video",
+			"player",
+			"		",
+			"onMediaSeek",
+			"onProgress",
+			"NFL",
+			"NBA Basketball",
+			"<title size=\"120\"",
+			"vTime",
+			"D",
+			"F",
+			"data[",
+			"searchable",
+			"Album",
+			"generateMain",
+			"generate",
+			"loadImage",
+			"img_src",
+			"photosmainimgcontainer",
+			"scale",
+			"jscale",
+			"timeline_entry_div_bottom",
+			"timeline_entry_title",
+			"timeline_entry_year",
+			"truncate",
+			"loadImage",
+			"updateThumbnails",
+			"truncate",
+			"generatePhotos",
+			"getAlbumInfoService",
+			"explora_large.png ",
+			"debug",
+			"'",
+			" '%'.$term.'%'",
+			"album_id",
+			"refreshFormElements",
+			"handleSliderSlide",
+			"caption_div",
+			"3189D3",
+			"loadImage",
+			"loadImageTitle",
+			"currentLocationObj.photos",
+			"currentLocationObj.p",
+			"currentLocationObj",
+			"loadImageDescription",
+			"loadImageTitle",
+			"loadImageDescription",
+			"loadImageTitle",
+			"getPhotosService",
+			"currentLocationObj",
+			"loadImageTitle",
+			"isPhoto",
+			"border",
+			"photosmainimgcontainer",
+			"tabheader",
+			"truncate",
+			"tababoutdeckcontainer",
+			"tabheader",
+			"getAlbumInfoService",
+			"console.",
+			"generateIndex",
+			"doReturn",
+			"getIndex",
+			"generateIndex",
+			"getIndex",
+			"generateIndex",
+			"generatePhotos",
+			"getPhotos",
+			"generateIndex",
+			"getVideos",
+			"generateIndex",
+			"chapter4",
+			"loadImage",
+			"resizeThumbImage",
+			"resizeMainImage",
+			"generateMainImage",
+			"resizeThumbImage",
+			"resizeMainImage",
+			"resizeThumbImage",
+			"resizeThumbImage ",
+			"resizeThumbImage",
+			"updateThumbnails",
+			"resizeThumbImage",
+			"photosthumb",
+			"photosthumb0",
+			"resizeThumbImage",
+			"resize",
+			"updateThumbnails",
+			"resizeThumbImage",
+			"album_id",
+			"content_holder",
+			"timeline_container_top",
+			"slider_container",
+			"console.log",
+			"album_id",
+			"console.",
+			"clients",
+			"422px",
+			"AddPushpin",
+			"console.",
+			"\\r\\n",
+			"videossmainimgcontainer",
+			"currentLocationObj",
+			"currentPage",
+			"imgIndex",
+			"tababoutdeckcontainer",
+			"VideoArray",
+			"CAKE_ADMIN",
+			"console",
+			"http://davetheflashguy.com/clients/dxagency/toshiba_maps/app/webroot",
+			"davetheflashguy",
+			"ui-slider",
+			"photosthumb",
+			"tabphotosdeckcontainer",
+			"toggleInfoPanelViews",
+			"customInfoBox",
+			"setCustomInfoBox",
+			"updateInfoBoxContent",
+			"toggleInfoPanelViews",
+			"generateIndex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"item",
+			"E",
+			"D",
+			"$term",
+			"403px",
+			"403",
+			"",
+			"<?php echo Configure::read('WEB_ROOT');?>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Dave/Desktop/Questions for Kyle",
+					"settings":
+					{
+						"buffer_size": 1352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1352,
+								1352
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Questions for Kyle",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Unicast Delivery",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}

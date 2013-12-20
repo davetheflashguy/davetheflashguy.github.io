@@ -1,0 +1,12 @@
+#container
+{
+	width:640px;
+	margin:auto;
+}
+
+#nowPlayingContainer
+{
+	height:50px;
+	width:640px;
+	color: #FF0000;
+}

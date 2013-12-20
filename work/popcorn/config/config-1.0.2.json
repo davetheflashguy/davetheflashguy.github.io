@@ -1,0 +1,10 @@
+[
+	{
+		"Config":
+				{
+					"playlistUrl":"http://localhost/popcorn/js/playlist.json",
+					"height" : "360",
+					"width" : "640"
+				}
+	}
+]
