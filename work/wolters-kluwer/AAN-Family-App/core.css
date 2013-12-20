@@ -1,0 +1,1341 @@
+html, body {
+	
+	overflow: hidden;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Arial, Verdana;
+	font-size: 12px;
+	background-color: #323232;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	padding: 0;
+	margin: 0;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+#primary-header,
+#offline-header {
+	height: 44px;
+	padding-top: 13px;
+	background-color: #242524;
+	color: #FFF;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+#offline-header {
+	text-align: center;
+}
+
+.column {
+	height: 44px;
+	display: inline-block;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+.settings-icon {
+	float: right;
+	margin-right: 15px;
+	width: 22px;
+	height: 29px;
+	background: url("http://wkipad.azurewebsites.net/aan-family/settings-icon.png") no-repeat;
+}
+
+nav {
+	padding: 0;
+	margin: 0;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav ul li {
+	display:inline-block;
+}
+
+section, article {
+	margin: 0;
+	padding: 0;
+}
+
+
+#section-primary {
+	width: 100%;
+	height: 170px;
+	background-color: #323232;
+}
+
+
+
+
+#section-secondary {
+	width: 100%;
+	/*height: 533px;*/
+	background-color: #323232;
+	overflow: hidden;
+}
+
+a:link, a:visited, a:hover, a:active {
+	color:#FFF;
+	text-decoration: none;
+}
+
+
+img {
+	border: none;
+    display: block;
+    margin: 0 auto;	
+}
+
+/* Default View */
+/* Header Columns */
+#main-wrapper[data-page-id="default"] header .column.left.header {	
+	width: 25%;
+}
+
+#main-wrapper[data-page-id="default"] header .column.middle.header {
+	width: 50%;
+	text-align: center;
+	font-weight: bold;
+}
+
+#main-wrapper[data-page-id="default"] header .column.right.header {
+	width: 25%;
+}
+
+#main-wrapper[data-page-id="default"] header nav ul li:nth-child(1) {
+	margin-left: 14px;
+}
+
+/* Navigation */
+#main-wrapper[data-page-id="default"] header nav,
+#main-wrapper[data-page-id="offline"] header {
+  	font-size: 13px;
+  	font-weight: bold;
+}
+
+#main-wrapper[data-page-id="default"] header nav ul li {
+	min-width: 45px;
+  	border: 1px solid #242524;
+  	border-radius: 3px;
+	display:inline-block;
+	margin-left: 5px;
+	padding: 3px;
+}
+
+
+
+
+.cloudButtonContainer {
+	width: 50px;
+	height: 37px;
+	background-color: red;
+	float: right;
+}
+
+#main-wrapper {
+	width: 768px;
+	height: 100%;
+	overflow: hidden;
+}
+
+
+.library.primary{
+	width: 768px;
+	height: 510px;
+	position: relative;
+	background-color: inherit;
+}
+
+.library.primary ul {
+	margin: 0;
+	padding-top: 12px;
+	padding-left: 0;
+}
+
+.library.primary ul li{
+	height: 495px;
+	width: 350px;
+	display:inline-block;
+	margin-right: 45px;
+}
+
+.library.primary ul div,
+.library.secondary ul div  {
+	display: inline-block;
+}
+
+.secondary.library {
+	height: 210px;
+	width: 768px;
+	display:-webkit-box;
+	-moz-transition: left .5s; 
+	-webkit-transition: left .5s;  
+	-ms-transition: left .5s;  
+	-o-transition: left .5s;  
+	transition: left .5s;  
+	position: relative;
+	margin-left: 19px;
+}
+
+.secondary.library ul {
+	margin: 0;
+	padding: 0;
+}
+
+.secondary.library ul li {
+	height: 210px;
+	width: 90px;
+	/*background-color: yellow;*/
+	display:inline-block;
+	margin-right: 35px;
+}
+
+
+.LibraryItem.
+.large-library-item {
+	height: 460px;
+	width: 350px;
+}
+
+.large-library-item div {
+	-webkit-backface-visibility: hidden;
+    -webkit-perspective: 1000;
+}
+
+.LibraryInfoContainer,
+.library-info-container {
+	height: 37px;
+	width: 350px;
+	color: #777;
+	font-weight: bold;
+	margin-top: 5px;
+	/*background-color: yellow;*/
+}
+.LibraryDetailCitationContainer {
+	height: 37px;
+	width: 150px;
+	color: #777;
+	font-weight: bold;
+	float: left;
+}
+.LibraryDetailTitleContainer {
+	height: 0px;
+	width: 150px;
+	color: #777;
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+
+.SubLibraryItem {
+	/*margin-top: 30px;*/
+}
+
+.ThumbnailContainer {
+	width: 90px;
+	height: 120px;
+	/*background-color: #FF0000;*/
+	background-size:90px 120px;
+	background-repeat:no-repeat;
+}
+
+
+.libListContainer {
+}
+
+.SubLibraryViewAllButton {
+	width: 200px;
+	height: 30px;
+	font-size: 12px;
+	font-weight: bold;
+	color: #777;
+	text-align: right;
+	display: inline-block;
+	float: right;
+	margin-right: 10px;
+}
+
+.issueCitationText {
+	width: 230px;
+	height: 29px;
+	float: left;
+	line-height: 20px;
+}
+
+.columnLeft, 
+.column-left,
+.columnRight,
+.column-right {
+	height: 37px;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;  
+	text-align: left;
+}
+
+.columnLeft,
+.column-left {
+	width: 230px;
+	float: left;
+	padding-top: 7px;
+}
+
+.columnRight,
+.column-right {
+	float: right;
+	padding-left: 22px;
+}
+
+.buy-button {
+	width: 38px;
+	height: 23px;
+	background: url("http://wkipad.azurewebsites.net/aan-family/btn-download.png") no-repeat;
+  	padding-top: 7px;
+  	color: white;
+   	text-decoration: none;
+   	vertical-align: middle;
+   	text-align: center;
+}
+
+.bottom-library-download-button {
+	width: 38px;
+	height: 23px;
+	background: url("http://wkipad.azurewebsites.net/aan-family/btn-download.png") no-repeat;
+  	padding-top: 7px;
+  	color: white;
+   	text-decoration: none;
+   	vertical-align: middle;
+   	text-align: center;
+   	margin-left: 25px;
+}
+
+.bottom-library-cancel-button 
+{
+    width: 20px;
+	height: 20px;
+	background: url("http://wkipad.azurewebsites.net/aan-family/btn-cancel.png") no-repeat;
+  	padding-top: 7px;
+  	color: white;
+   	text-decoration: none;
+   	vertical-align: middle;
+   	text-align: center;
+	margin-left: 32px;
+}
+
+.sub-library-detail-cancel-button {
+	margin-top: 14px;
+}
+
+.price-button {
+	width: 45px;
+   	height: 17px;
+	font-weight: bold;
+	color: #FFF;
+	margin-top: 3px;
+	padding-right: 8px;
+	padding-top: 4px;
+	padding-left: 7px;
+	padding-bottom : 2px;
+	display: inline-block;
+	float:right;
+	background: -webkit-linear-gradient(top,#5f5f5f,#5f5f5f 50%, #555555 50%,#555555);
+    border: 1px solid #4f4f4f;
+    border-radius:5px;
+	text-align:center;
+}
+
+.free-button {
+	width: 38px;
+    height: 20px;
+    font-weight: bold;
+    color: #FFF;
+    margin-top: 3px;
+    padding-top: 3px;
+    display: inline-block;
+    float: right;
+    background: -webkit-linear-gradient(top,#5f5f5f,#5f5f5f 50%, #555555 50%,#555555);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.close-button-css {
+	width: 20px;
+	height: 20px;
+	background: url("http://wkipad.azurewebsites.net/aan-family/btn-cancel.png") no-repeat;
+  	padding-top: 7px;
+  	color: white;
+   	text-decoration: none;
+   	vertical-align: middle;
+   	text-align: center;
+}
+
+.non-entitled
+{
+    color: rgb(0, 173, 255);
+    width: 50px;
+    text-align: center;
+}
+
+.bottom-library-non-entitled
+{
+    color: rgb(0, 173, 255);
+    width: 38px;
+    padding-left : 20px
+}
+
+.library-details-non-entitled
+{
+    color: rgb(0, 173, 255);
+    padding-top: 10px;
+    text-align: center;
+}
+
+
+.resume-button{
+	width: 32px;
+	height: 32px;
+	background: url("http://wkipad.azurewebsites.net/aan-family/btn-resume-2X.png") no-repeat;
+  	padding-top: 7px;
+  	color: white;
+   	text-decoration: none;
+   	vertical-align: middle;
+   	text-align: center;
+   	background-size: 32px 32px;
+}
+
+.bottom-library-resume-button{
+	width: 32px;
+	height: 32px;
+	background: url("http://wkipad.azurewebsites.net/aan-family/btn-resume-2X.png") no-repeat;
+   	background-size: 32px 32px;
+   	margin-left: 27px;
+}
+
+.folio-download-button{
+    float : right;
+    /*padding-top:7px;*/
+}
+
+.buy-button-sub-library {
+	display: block !important;
+	margin-top: 5px;
+	width: 89px;
+	height: 26px;
+	background: url("http://wkipad.azurewebsites.net/aan-family/buy-button-sub-library.png") no-repeat;
+  	padding-top: 5px;
+  	color: white;
+   	text-decoration: none;
+   	vertical-align: middle;
+   	text-align: center;
+}
+
+img{
+	padding: 0;
+	margin: 0;
+}
+
+
+/* Used in the sub library */
+.CitationContainer {
+	text-overflow: ellipsis;
+	width: 90px;
+	white-space: nowrap;
+	overflow: hidden;
+	color: #777;
+}
+
+.DetailViewCitationContainer {
+	text-overflow: ellipsis;
+	width: 150px;
+	white-space: nowrap;
+	overflow: hidden;
+	color: #777;
+	-webkit-margin-before: 0;
+}
+
+.CoverImageCitationContainer {
+	text-overflow: ellipsis;
+	width: 90px;
+	white-space: nowrap;
+	overflow: hidden;
+	color: #777;
+}
+
+/* Login */
+.modal-background-grey {
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, .3);
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 9;
+}
+
+/* The login dialog. */
+#login {
+	width: 410px;
+	position: absolute;
+    left: 50%;
+    margin-left: -210px;
+    top: 150px;
+	background-color: #333333;
+    -webkit-box-shadow: 0 0 20px rgba(0,0,0,.2);
+	color: #ffffff;
+}
+
+#login .title {
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+	margin-bottom: 10px;
+	background-color: #272727;
+	height: 37px;
+	padding-top: 23px;
+}
+
+#login #close {
+	background: url("http://wkipad.azurewebsites.net/aan-family/icon_close.png") no-repeat;
+	background-size: 50px 50px;
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	top: 7px;
+	right: 12px;
+}
+
+#login .description {
+	font-size: 13px;
+	margin: 15px 0px 20px 20px;
+	color: #999999;
+}
+
+#login a {
+	color: #33CCFF;
+	text-decoration: none;
+}
+
+#login .link {
+	margin: 5px 0px 20px 20px;
+}
+
+#login-custom-text
+{
+  margin : 20px   
+}
+input[type="text"], input[type="password"] {
+	-webkit-appearance: none;
+	background-color: #333433;
+	border-color: rgb(0,0,0);
+	border-style: solid;
+	border-width: 1px;
+	color: #ffffff;
+	font-size: 12px;
+	outline-color: black;
+	outline-style: none;
+	outline-width: 0px;
+	padding: 0px 4px 4px 4px;
+	margin-left: 20px;
+	width: 370px;
+	height: 31px;
+	-webkit-appearance: none;
+	margin: 0px 0px 15px 20px;
+}
+
+input::-webkit-input-placeholder {
+    font-family: Helvetica Neue;
+    font-size: 12px;
+}
+
+#login .required {
+	position: relative;
+	top: -5px;
+	left: 3px;
+}
+
+#login #submit {
+    background: url("http://wkipad.azurewebsites.net/aan-family/button_sign_in.png") no-repeat;
+    width: 370px;
+    height: 26px;
+    font-weight: bold;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 10px
+}
+
+#login .error {
+	color: rgb(255,0,0);
+	font-size: 13px;
+	font-weight: bold;
+    margin: 10px 10px 10px 20px;
+    height: 15px;
+}
+
+.form-button {
+	text-shadow: 0px 1px 0px rgb(0, 0, 0);
+	width:123px;
+	height:30px;
+	border-color:rgb(51,51,51);
+	border-width:1px;
+	border-radius:4%/12%;
+	border-style:solid;
+	text-align: center;
+	color: #ffffff;
+	font-weight: bold;
+	padding-top: 9px;
+}
+
+#loading {
+	margin: 10px;
+	color: #ffffff;
+	text-shadow: 0px 1px 0px rgb(0,0,0);
+	font-size: 17px;
+}	
+
+.primary-library-image-container {
+	height: 460px;
+	width: 350px;
+	margin-bottom: 0px;
+	padding: 0;
+	float: left;
+	background-size: 350px 460px;
+	position: relative;
+}
+
+.progressBarContainer,
+.progress-bar-container {
+	width: 350px;
+	background-color: black;
+	height: 7px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+
+.bottom-library-progress-bar-container{
+    width: 90px;
+	background-color: black;
+	height: 7px;
+	left: 0;
+	bottom: 0;
+	position: absolute;
+}
+
+.progressBar,
+.progress-bar {
+	width: 0px;
+	background-color: #26ADE4;
+	height: 7px;
+	float: left;
+	position: relative;
+}
+
+.bottom-library-progress-bar{
+	width: 0px;
+	background-color: #26ADE4;
+	height: 7px;
+	float: left;
+	position: relative;
+}
+
+/* Library Detail View */
+#main-wrapper[data-page-id="library-detail"] header {	
+	position: fixed;
+    width: 100%;
+    height: 44px;
+    top: 0;
+    z-index: 1;
+}
+
+/* Library Detail View */
+/* Header Columns */
+#main-wrapper[data-page-id="library-detail"] header .column.left.header {	
+	width: 33%;
+}
+
+#main-wrapper[data-page-id="library-detail"] header .column.middle.header {
+	width: 33%;
+	text-align: center;
+	font-weight: bold;
+}
+
+#main-wrapper[data-page-id="library-detail"] header .column.right.header {
+	width: 50%;
+	text-align: right;
+	/*padding-left:175px;*/
+	float: right;
+	padding-right: 10px;
+}
+
+/* navigation */
+#main-wrapper[data-page-id="library-detail"] header nav {
+  	font-size: 13px;
+  	font-weight: bold;
+}
+
+#main-wrapper[data-page-id="library-detail"] header nav ul li {
+  	/*padding-left: 5px;*/
+  	color: white;
+   	text-decoration: none;
+   	vertical-align: middle;
+}
+
+#main-wrapper[data-page-id="library-detail"] header .column.left nav ul li {
+	min-width: 45px;
+  	border: 1px solid #242524;
+  	border-radius: 3px;
+	display:inline-block;
+	margin-left: 18px;
+}
+
+#main-wrapper[data-page-id="library-detail"] header .column.right.header nav ul li:nth-child(1),
+#main-wrapper[data-page-id="library-detail"] header .column.right.header nav ul li:nth-child(2) {
+	margin-right: 22px;
+}
+
+#main-wrapper[data-page-id="library-detail"] .library.primary ul div li{
+	float: left;
+	width: 220px;
+	height: 325px;
+	margin-right: 15px !important;
+	margin-top: 15px;
+	/*background:url('sample-library-image.png');*/
+	background-size:219px 294px;
+	background-repeat:no-repeat;
+}
+
+#main-wrapper[data-page-id="library-detail"] .library.primary ul div {
+	display: block;
+}
+
+#main-wrapper[data-page-id="library-detail"] .library.primary ul {
+	padding-top: 30px;
+}
+
+#main-wrapper[data-page-id="library-detail"] {
+	background-color: #323232;
+}
+
+#main-wrapper[data-page-id="library-detail"] #section-primary {
+	width: 768px;
+	height: 100%;
+}
+
+#main-wrapper[data-page-id="library-detail"] #section-primary ul{
+	padding: 0;
+	margin: 30px 0px 0px 30px;
+}
+
+.secondary-library-image-container {
+	width: 220px;
+	height: 295px;
+}
+
+#main-wrapper[data-page-id="library-detail"] .progressBarContainer {
+	width: 200px;
+}
+
+#main-wrapper[data-page-id="library-detail"] .meta-data-container {
+	height: 45px;
+	width: 222px;
+	margin: 0px;
+	margin-top: 0px;
+}
+
+#main-wrapper[data-page-id="library-detail"] .meta-data-title,
+#main-wrapper[data-page-id="library-detail"] .meta-data-citation {
+	height: 22px;
+	width: 150px;
+	color: #FFF;
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 3px;
+	float: left;
+}
+
+#main-wrapper[data-page-id="library-detail"] .buy-button {
+	width: 47px;
+	height: 31px;
+	background: url("http://wkipad.azurewebsites.net/aan-family/cloud-button.png") no-repeat;
+	margin-top: 14px;
+  	color: white;
+   	text-decoration: none;
+   	vertical-align: middle;
+   	text-align: center;
+   	float:right;
+}
+
+#main-wrapper[data-page-id="library-detail"] .progress-bar-container {
+	width: 220px;
+	background-color: black;
+	height: 7px;
+	position: relative;
+	bottom: 8px;
+}
+
+.SubLibraryItem .progressBarContainer {
+	width: 90px;
+}
+
+.SubLibraryDetailItem,
+.sub-library-detail-item,
+.offline-folio-item {
+	float: left;
+	width: 220px;
+	height: 340px;
+	margin-right: 25px;
+	margin-bottom: 25px;
+	background-color:#323232;
+}
+
+.SubLibraryItem .buy-button {
+	display: block !important;
+	font-weight: bold;
+}
+
+.meta-data-container {
+	margin-bottom: 35px;
+	/*background-color: red;*/
+}
+
+.meta-data-title {
+	height: 15px;
+	width: 150px;
+	color: #777;
+	font-weight: bold;
+	/*background-color: yellow;*/
+	margin-bottom: 3px;
+}
+
+.meta-data-citation {
+	height: 15px;
+	width: 150px;
+	color: #777;
+	font-weight: bold;
+	/*background-color: pink;*/
+	margin-bottom: 3px;
+}
+
+/* Cover Image */
+.cover-image-item {
+	width: 768px;
+	height: 100%;
+	background: rgba(0, 0, 0, .7);
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 9;
+}
+
+.cover-image-meta-data-container {
+	height: 55px;
+	margin-left: 22px;
+	margin-right: 22px;
+	margin-top: -10px;
+}
+
+.cover-image-meta-data-title,
+.cover-image-meta-data-citation {
+	height: 16px;
+	width: 300px;
+	font-size: 16px;
+	float: left;
+}
+
+.cover-image-meta-data-title {
+	font-weight: bold;
+	color: #FFF;
+}
+
+.cover-image-meta-data-citation {
+	color: #969696;
+}
+
+
+.cover-image-buy-button {
+	width: 114px;
+	height: 31px;
+	background: url("http://wkipad.azurewebsites.net/aan-family/large-cover-popup-download-button.png") no-repeat;
+  	color: white;
+   	text-decoration: none;
+   	vertical-align: middle;
+   	text-align: center;
+   	float:right;
+}
+
+.cover-image-item-wrapper {
+	width: 490px;
+	height: 730px;
+	background-color: #333333;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 117px;
+}
+
+.cover-image-container {
+	width: 490px;
+	height: 650px;
+	margin-bottom: 0px;
+	margin-top: 3px;
+	float: left;
+	position: relative;
+	background-size: 490px 650px;
+}
+
+.cover-image-container .progress-bar-container {
+	width: 490px;
+}
+
+#close-cover-image {
+	background: url("http://wkipad.azurewebsites.net/aan-family/close-large-cover-pop-up-button.png") no-repeat;
+	background-size: 32px 32px;
+	position: relative;
+	width: 32px;
+	height: 32px;
+	top: -16px;
+	left: -16px;
+}
+
+select {
+  -webkit-appearance: button;
+  -webkit-border-radius: 2px;
+  /*-webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);*/
+  -webkit-padding-end: 0px;
+  -webkit-padding-start: 0px;
+  -webkit-user-select: none;
+  background-image: url(../images/select-arrow.png), 
+  /*-webkit-linear-gradient(#FAFAFA, #F4F4F4 40%, #E5E5E5);*/
+  background-position: center right;
+  background-repeat: no-repeat;
+  border: 1px solid #242524;
+  color: #FFF;
+  background-color: #242524;
+  font-weight: bold;
+  font-size: inherit;
+  margin: 0;
+  overflow: hidden;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+
+/** Top Level Library **/
+#top-library {
+	margin: 0;
+	padding: 0;    
+}
+
+#top-library ul {
+	margin: 0;
+	padding: 0;
+	margin-left: 30px;
+}
+
+#top-library ul li,
+#top-library ul div {
+	display: inline-block;
+}
+
+#top-library ul li {
+	margin-right: 25px;
+}
+
+.top-library-item {
+	width: 120px;
+	height: 160px;
+	/*background-color: green;*/
+}
+
+.top-library-image-container {
+	width: 120px;
+	height: 160px;
+	background-size: 120px 160px;
+}
+	
+/** Tertiary Library */
+#section-tertiary {
+	height: 203px;
+	background-color: #444444;
+}
+
+#bottom-library {
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.bottom-library-title {
+	height: 30px;
+	width: 500px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFF;
+	margin-top: 8px;
+	margin-left: 21px;
+	display: inline-block;
+}
+
+.bottom-library-view-all-button {
+	width: 90px;
+	height: 120px;
+	font-weight: bold;
+	background-color: #4e4e4e;
+	color: #FFF;
+	padding-top: 50px;
+	box-sizing:border-box;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#section-tertiary ul {
+	margin: 0;
+	padding: 0;
+}
+
+#section-tertiary ul li,
+#section-tertiary ul div {
+	display: inline-block;
+}
+
+#section-tertiary ul li {
+	margin-right: 16px;
+}
+
+.bottom-library-item {
+	width: 90px;
+	height: 165px;
+	vertical-align: top;
+}
+
+.bottom-library-item-citation {
+	text-overflow: ellipsis;
+	width: 90px;
+	height: 18px;
+	white-space: nowrap;
+	overflow: hidden;
+	color: #777;
+}
+
+.bottom-library-image-container {
+	width: 90px;
+	height: 120px;
+	background-size: 90px 120px;
+	margin-bottom: 0px;
+	padding: 0;
+	position: relative;
+}
+
+
+.bottom-library-arrow-up {
+	width: 0;
+	height: 0;
+	border-left: 14px solid transparent;
+	border-right: 14px solid transparent;
+	border-bottom: 18px solid #444444;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	bottom: 0;
+}
+
+.all-issues-show-all-button 
+{
+    width : 100%;
+	font-weight: bold;
+	color: #FFF;
+	margin-left: auto;
+	margin-right:auto;
+	padding-top: 6px;
+	padding-left: 330px;
+	display: inline-block;
+	/*background: url("http://wkipad.azurewebsites.net/aan-family/show-all-button.png") no-repeat;
+	background-size: 65px 28px;*/
+}
+
+.arrow-show-all
+{
+    margin-top : 4px;
+    margin-left : 5px;
+    display: inline-block;
+    border: 7px solid transparent;
+    border-top: 7px solid white;
+    overflow: hidden;
+    position: absolute;
+}
+
+/*Remove Folios*/
+#main-wrapper[data-page-id="remove-folios"] header .column.left.header {	
+	width: 33%;
+}
+
+#main-wrapper[data-page-id="remove-folios"] header .column.middle.header {
+	width: 33%;
+	text-align: center;
+	font-weight: bold;
+}
+
+#main-wrapper[data-page-id="remove-folios"] header .column.right.header {
+	width: 33%;
+}
+
+#main-wrapper[data-page-id="remove-folios"] .remove-folio-meta-data-container {
+	height: 45px;
+	width: 222px;
+	margin: 0px;
+	margin-top: 0px;
+}
+
+#main-wrapper[data-page-id="remove-folios"] .remove-folio-meta-data-title,
+#main-wrapper[data-page-id="remove-folios"] .remove-folio-meta-data-citation {
+	height: 22px;
+	width: 220px;
+	color: #FFF;
+	font-size: 11px;
+	font-weight: bold;
+	margin-bottom: 3px;
+	float: left;
+}
+
+.remove-folio-citation-container {
+	width: 220px;
+	white-space: nowrap;
+	overflow: hidden;
+	color: #777;
+	-webkit-margin-before: 0;
+}
+.remove-folio-item
+{
+    float: left;
+	width: 220px;
+	height: 340px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	background-color:#323232;
+}
+
+.remove-folios-button
+{
+	height: 28px;
+	font-weight: bold;
+	color: #FFF;
+	margin-top: 3px;
+	padding-right: 12px;
+	padding-top: 6px;
+	padding-left: 7px;
+	display: inline-block;
+	float:right;
+	background: url("http://wkipad.azurewebsites.net/aan-family/button_grey.png") no-repeat;
+	background-size: auto;
+	text-align:center;
+}
+.remove-folio-image-container
+{
+    width :220px;
+    height : 293px;
+    position: relative;
+}
+.remove-folio-mage
+{
+    position    : absolute;
+}
+ 
+
+.remove-folio-check
+{
+    display : none;
+    background: url("http://wkipad.azurewebsites.net/aan-family/btn-check-2x.png") no-repeat;
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+    margin-left: 170px;
+    position: absolute;
+    margin-top: 250px;
+    content: '';
+}
+
+ 
+
+#remove-folio-primary-header
+{
+    height: 44px;
+	padding-top: 7px;
+	background-color: #242524;
+	color: #FFF;
+	-webkit-box-sizing: border-box;
+}
+
+.remove-folio-right-header{
+    float:right;
+    margin-bottom:15px;
+}
+
+.remove-folios-select-issues
+{
+    height:20px;
+    top: 17px;
+    position: absolute;
+    margin-left: 40px;
+}
+
+#remove-folios-select-all-button{
+	width: 75px;
+    height: 20px;
+    font-weight: bold;
+    color: #FFF;
+    margin-top: 0px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+    background: -webkit-linear-gradient(top,#5f5f5f,#5f5f5f 50%, #555555 50%,#555555);
+    border: 1px solid #4f4f4f;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+#remove-button
+{
+     width: 50px;
+    height: 20px;
+    font-weight: bold;
+    color: #FFF;
+    margin-top: 0px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-left: 7px;
+    display: inline-block;
+    float: right;
+   	background: -webkit-linear-gradient(top,#b52335,#b52335 50%, #ad0b1f 50%,#ad0b1f);
+    border: 1px solid #ad0b1f;
+    border-radius: 5px;
+    text-align: right;
+    margin-bottom: 15px;
+    margin-right: 5px;
+    opacity:0.4;
+}
+#remove-folios-cancel-button
+{
+	width: 50px;
+    height: 20px;
+    float: left;
+    background: -webkit-linear-gradient(top,#5f5f5f,#5f5f5f 50%, #555555 50%,#555555);
+    border: 1px solid #4f4f4f;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 11px;
+    padding-left: 12px;
+    padding-top: 3px;
+}
+
+#folios-container
+{
+ padding-top : 15px;   
+}
+
+#detailPage-folios-container
+{
+ padding-top : 45px;    /* recheck */
+}
+
+
+.onDeviceCheckboxLabel {
+	margin-top: -5px;
+}
+
+#backBtn {
+	padding: 3px;
+	background-color: inherit;
+	font-size: 13px;
+    font-weight: bold;
+}
+
+#login-button {
+	/*padding: 3px;*/
+}
+
+#logout-button {
+	/*padding: 3px;*/
+}
+
+#custom-instructions{
+    width:775px;
+    height:50px;
+    background-color:#ffffcc;
+    position:absolute;
+    z-index:10;
+    visibility:hidden;
+    margin-top: -15px;
+	padding-left: 5px;
+}
+
+.custom-instructions-text{
+    width:90%; 
+    float:left;
+    padding-left: 10px;
+    padding-top: 3px;
+    display:inline-block;
+}
+
+.custom-instructions-close{
+    padding-bottom :10px;
+    padding-right : 10px;
+    background-color: #ffffcc;
+    margin-right: 7px;
+    font-size : 15px;
+    float:right;
+}
+
+a.custom-instructions-link
+{
+  color : rgb(0, 163, 255);
+  text-decoration: underline;
+}
+
+#offline-message {
+	width: 775px;
+	height: 50px;
+	background-color:#ffffcc;
+	border: 1px solid 000;
+	padding-left: 10px;
+	padding-top: 3px;
+}
+
+#section-offline ul li {
+	display: inline-block;
+}
+
+.offline-folio-image-container {
+	width: 220px;
+	height: 295px;
+}
+	
+.offline-folio-title {
+	height: 15px;
+	width: 220px;
+	color: #777;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+.offline-folio-citation {
+	height: 15px;
+	width: 220px;
+	color: #777;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
