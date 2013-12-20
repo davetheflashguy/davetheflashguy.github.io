@@ -1,0 +1,35 @@
+
+body, #page {
+	
+}
+#logo { 
+  background:url(../images/infectdis_logo.png) center center no-repeat;
+}
+#header{ 
+  background: -webkit-gradient(linear, left top, left bottom, from(#871a03), to(#871a03));
+}
+#menu {
+  background-color: #c13417; 
+}
+#menu ul li.first {
+  background-color: #cb563e;
+}
+#optional_image { 
+  background-image:url(../images/infectdis_imagery.jpg);
+}
+#footer_container {
+  
+}
+#buy_issue_button{ 
+  
+  
+}
+#section_title_header_container{ 
+  
+  
+  
+}
+#back_btn{ 
+  
+  
+}

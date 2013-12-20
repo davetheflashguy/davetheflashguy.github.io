@@ -1,0 +1,894 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"quer",
+				"query"
+			],
+			[
+				"fu",
+				"full_text_image"
+			],
+			[
+				"image",
+				"imageId"
+			],
+			[
+				"query",
+				"query_string"
+			],
+			[
+				"prox",
+				"proxyUrl"
+			],
+			[
+				"banner",
+				"bannerstring4"
+			],
+			[
+				"conte",
+				"contentDocument"
+			],
+			[
+				"pro",
+				"proxy"
+			],
+			[
+				"embed",
+				"embedFlash"
+			],
+			[
+				"new",
+				"newcontent"
+			],
+			[
+				"display",
+				"displayCompanions"
+			],
+			[
+				"click",
+				"clickTag"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"ad",
+				"adMode"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"cli",
+				"clickTag1"
+			],
+			[
+				"clickThr",
+				"clickThroughUrl"
+			],
+			[
+				"onClick",
+				"onClickThrough"
+			],
+			[
+				"clickT",
+				"ClickThrough"
+			],
+			[
+				"Clic",
+				"clickThrough"
+			],
+			[
+				"playlistLe",
+				"playlistLegendLeft"
+			],
+			[
+				"con",
+				"Config"
+			],
+			[
+				"cofi",
+				"configObj"
+			],
+			[
+				"cong",
+				"Config"
+			],
+			[
+				"v",
+				"videoDivId"
+			],
+			[
+				"video",
+				"videoContainer"
+			],
+			[
+				"co",
+				"configObj"
+			],
+			[
+				"pla",
+				"playlist"
+			],
+			[
+				"curr",
+				"currVideoObj"
+			],
+			[
+				"update",
+				"updatePosterImage"
+			],
+			[
+				"po",
+				"poster"
+			],
+			[
+				"debug",
+				"debugMode"
+			],
+			[
+				"pl",
+				"playlistPosition"
+			],
+			[
+				"udate",
+				"updateLegend"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"js",
+				"jsonData"
+			],
+			[
+				"playlist",
+				"playlistLegendContainer"
+			],
+			[
+				"play",
+				"playNextMediaItem"
+			],
+			[
+				"margin",
+				"margin	margin: all"
+			],
+			[
+				"padding",
+				"padding	padding: all"
+			],
+			[
+				"pls",
+				"playlist"
+			],
+			[
+				"mar",
+				"margin	margin: all"
+			],
+			[
+				"padd",
+				"padding	padding: all"
+			],
+			[
+				"pad",
+				"padding	padding-left: length"
+			],
+			[
+				"bor",
+				"border	border-left-style: style"
+			],
+			[
+				"border",
+				"border	border-color: color"
+			],
+			[
+				"obje",
+				"Object"
+			],
+			[
+				"playl",
+				"Playlist"
+			],
+			[
+				"cofig",
+				"Config"
+			],
+			[
+				"now",
+				"nowPlayingContainer"
+			],
+			[
+				"Player",
+				"Player"
+			],
+			[
+				"set",
+				"setPlaylist"
+			],
+			[
+				"confi",
+				"configObj"
+			],
+			[
+				"conf",
+				"configObj"
+			],
+			[
+				"config",
+				"configLoaded"
+			],
+			[
+				"_vid",
+				"_vidObj"
+			],
+			[
+				"resu",
+				"resumeVideo"
+			],
+			[
+				"res",
+				"resumeVideo"
+			],
+			[
+				"pa",
+				"pause"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"what",
+				"whatsPlayingReference"
+			],
+			[
+				"obj",
+				"Object"
+			],
+			[
+				"media",
+				"mediaObj"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pt",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/views/full_article/main.js",
+			"settings":
+			{
+				"buffer_size": 4345,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/ImageWrapperControl.js",
+			"settings":
+			{
+				"buffer_size": 4758,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/views/full_text_image/header.js",
+			"settings":
+			{
+				"buffer_size": 2096,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/inetpub/wwwroot/davecollierconsulting/services.html",
+			"settings":
+			{
+				"buffer_size": 5527,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": " chju kkju f nb\n\n choe",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Windows",
+				"name": "chju kkju f nb"
+			}
+		},
+		{
+			"file": "js/views/full_text_image/main.js",
+			"settings":
+			{
+				"buffer_size": 4332,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/js/views/home/main.js",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/js/views/toc/main.js",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/js/views/article_details/main.js",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/js/ImageWrapperControl.js",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/js/views/full_article/main.js",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/css/app.css",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/js/collections/toc.js",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/js/views/oa/main.js",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/js/views/featured/main.js",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/js/collections/full_article.js",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/js/collections/featured.js",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/js/views/full_text_image/main.js",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/js/views/base.js",
+		"/C/inetpub/wwwroot/wolterskluwer/anesthesiology/index.html",
+		"/C/inetpub/wwwroot/wolterskluwer/samples/custom_storefront_tutorial/HTML/storeAPI/storeAPI.js",
+		"/C/inetpub/wwwroot/wolterskluwer/samples/library_store_combined/assets/AdobeLibraryAPI.js",
+		"/C/inetpub/wwwroot/wolterskluwer/samples/library_store_combined/assets/index.html",
+		"/C/inetpub/wwwroot/wolterskluwer/architecture/2.14",
+		"/C/xampp/htdocs/xampp/clients/wolterskluwer/samples/custom_storefront_tutorial/HTML/exercise_7/store.js",
+		"/C/xampp/htdocs/xampp/clients/wolterskluwer/samples/custom_storefront_tutorial/HTML/storeAPI/storeAPI.js",
+		"/C/xampp/htdocs/xampp/clients/wolterskluwer/samples/custom_storefront_tutorial/HTML/exercise_6_finish.html",
+		"/C/xampp/htdocs/xampp/clients/wolterskluwer/samples/custom_storefront_tutorial/HTML/exercise_7.html",
+		"/C/xampp/htdocs/xampp/clients/wolterskluwer/samples/custom_storefront_tutorial/HTML/exercise_7/network_detection.js",
+		"/C/xampp/htdocs/xampp/clients/wolterskluwer/samples/custom_storefront_tutorial/HTML/exercise_6/store.js",
+		"/C/Users/Dave/Work/clients/wolterskluwer/docs/Timesheet",
+		"/C/Users/Dave/Work/clients/wolterskluwer/docs/Wolters Kluwer",
+		"/C/xampp/htdocs/xampp/clients/wolterskluwer/samples/custom_storefront_tutorial/HTML/exercise_5/store.js",
+		"/C/xampp/htdocs/xampp/clients/wolterskluwer/samples/custom_storefront_tutorial/store_explorer/src/store-universal-test-kt.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/deploy/brightcove_liverail_video_click_tracking_test_ad.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/deploy/hnBLoader.js",
+		"/C/Users/Dave/Desktop/justincase",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/deploy/test.html",
+		"/C/Users/Dave/Work/clients/guavas/vdms/reports/customer/combined/v2/change-log.txt",
+		"/C/Users/Dave/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/WWYOJR5W/Tags_247RM_300x600_Optimization-Test.txt",
+		"/C/Users/Dave/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/WWYOJR5W/Tags_247RM_300x600_Optimization-Test_6 5.txt",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/deploy/hn300x600adshell.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/deploy/hn300x600adshell-test.js",
+		"/C/Users/Dave/Work/clients/guavas/lounge/guavus-db-install.sql",
+		"/C/xampp/htdocs/xampp/clients/guavus/README",
+		"/C/xampp/htdocs/xampp/clients/guavus/build.xml",
+		"/C/xampp/htdocs/xampp/clients/guavus/index.php",
+		"/C/xampp/htdocs/xampp/clients/guavus/app/Config/database.php",
+		"/C/xampp/htdocs/xampp/clients/guavus/app/Config/routes.php",
+		"/C/user",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/deploy/brightcove_liverail_video_click_tracking_test.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/deploy/hnBLoader-test.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/javascript/hnBLoader.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/javascript/hnPixelTrackers.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.0/deploy/fp_liverail_video_click_tracking_test.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/trunk/deploy/live_rail_video_click_tracking_test.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/deploy/hnPixelTrackers.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Dave/Work/clients/guavas/vdms/reports/5-31-notes",
+		"/C/xampp/htdocs/xampp/clients/davecollierconsulting/index.html",
+		"/C/xampp/htdocs/xampp/clients/davecollierconsulting/about.html",
+		"/C/xampp/htdocs/xampp/clients/davecollierconsulting/services.html",
+		"/C/xampp/htdocs/xampp/clients/davecollierconsulting/projects.html",
+		"/C/Users/Dave/Desktop/angela's-camera/orig/NCFL/NCSORLST.LST",
+		"/C/Users/Dave/Desktop/Ditch the total views drop down above the at-a-gla",
+		"/C/Users/Dave/Desktop/AAA",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/deploy/proxy.php",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.0/javascript/hnFPSinglePixelTrackers.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.0/javascript/hnFPSingle300x600AdShell.min.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.0/deploy/hnFPSingle300x600_all.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.0/javascript/hnFPSingle300x600AdShell.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.0/html/fp_liverail_video_click_tracking_test.html",
+		"/C/Users/Dave/Desktop/notes",
+		"/C/Users/Dave/workspace/FlowPlayerBranch-0.3.0.0/javascript/hnFPSingle300x600AdShell.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.0/deploy/fp_liverail_video_click_tracking_test-ad-tag.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.0/deploy/dave-test.html",
+		"/C/Users/Dave/Desktop/healthi",
+		"/C/Users/Dave/Desktop/TaxBreakdown",
+		"/C/Users/Dave/Desktop/notesfromchip",
+		"/C/Users/Dave/Desktop/Paychecks",
+		"/C/Users/Dave/Desktop/todo",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/javascript/hn300x600adshell.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/deploy/index.html",
+		"/C/Users/Dave/workspace/SinglePlayerTests/javascript/hnFPSingle300x600AdShell.js",
+		"/C/Users/Dave/workspace/SinglePlayerTests/html/fp_liverail_video_click_tracking_test.html",
+		"/C/Users/Dave/workspace/SinglePlayerTests/deploy/hnFPSingle300x600_all.js",
+		"/C/Users/Dave/workspace/SinglePlayerTests/deploy/fp_liverail_video_click_tracking_test.html",
+		"/C/Users/Dave/Desktop/Compressed Files/hnFPSingle300x600AdShell-min.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.3.0/readme.1st",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.2.0/deploy/hnFPSingle300x600_all.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/trunk/deploy/hnFPSingle300x600_all.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.2.0/deploy/live_rail_video_click_tracking_test.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/trunk/samples/Dexilant_071411_Master_H264_640x360_500k.m4v",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/trunk/deploy/plaingray.css",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/trunk/javascript/hnFPSingle300x600AdShell.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/trunk/html/fp_badvideo.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/trunk/deploy/fp_liverail_testad.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.2.0/deploy/fp_liverail_default_703291.html",
+		"/C/Users/Dave/AppData/Local/Temp/svn8894268825608861798.rst",
+		"/C/xampp/tomcat/webapps/docs/config/host.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/rich_media_adunit_clicktracking_poc/branches/0.2.0/proxy.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/rich_media_adunit_clicktracking_poc/branches/0.2.0/js/creative.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.2.0/javascript/hnFPSingle300x600AdShell.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/rich_media_adunit_clicktracking_poc/branches/0.2.0/trackingProxy.php",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.2.0/deploy/creative-modified.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.2.0/deploy/fp_liverail_sex_703291.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/rich_media_adunit_clicktracking_poc/branches/0.2.0/proxy-test.html",
+		"/C/xampp/htdocs/xampp/clients/davecollierconsulting/css/style.css",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/rich_media_adunit_clicktracking_poc/branches/0.1.0/index.htm",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/rich_media_adunit_clicktracking_poc/branches/0.2.0/index.htm",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.2.0/readme.1st",
+		"/C/Users/Dave/Downloads/DecodedBase64.bin",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.2.0/javascript/hn300x600adshell.min.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/player/branches/6.1.0/javascript/hnBEventDelegates.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/trunk/deploy/fp_liverail_default_703291.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/rich_media_adunit_clicktracking_poc/branches/0.2.0/rich_media_adunit_clicktracking_poc.sublime-workspace",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/rich_media_adunit_clicktracking_poc/branches/0.2.0/rich_media_adunit_clicktracking_poc.sublime-project",
+		"/C/Users/Dave/Desktop/GeorgeMeeting",
+		"/C/Users/Dave/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/WWYOJR5W/vesicare_flash_click-tracking.txt",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.2.0/html/fp_liverail_badad.html",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/flowplayer/branches/0.2.0/.project",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/POC/rich_meda_ad_unit_click_tracking/js/clickthrough.js",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/POC/rich_meda_ad_unit_click_tracking/index.htm",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/POC/index.htm",
+		"/C/xampp/htdocs/xampp/clients/healthiNation/POC/js/clickthrough.js",
+		"/C/xampp/htdocs/xampp/clients/davecollierconsulting/popcorn/js/player-1.0.5.js",
+		"/C/Users/Dave/Desktop/Angela'sQuestionsyPuntos",
+		"/C/Users/Dave/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/JSV45J8M/index[1].html",
+		"/C/xampp/htdocs/xampp/index.php",
+		"/C/wamp/DaveCollier_templates/DaveCollier_v3/index.html",
+		"/C/Users/Dave/Work/clients/foo/flowPlayer.sublime-project",
+		"/C/Users/Dave/Work/clients/foo/branches/0.2.0/javascript/hnFPSingle300x600AdShell.js",
+		"/C/Users/Dave/Work/clients/foo/branches/0.2.0/javascript/hnFPSinglePixelTrackers.js",
+		"/C/Users/Dave/Work/clients/foo/branches/0.2.0/javascript/BCSingleTitleExperiment/hnBCSingle300x600AdShell.js"
+	],
+	"find":
+	{
+		"height": 86.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\Dave\\Work\\clients\\wolterskluwer",
+			"C:\\Users\\Dave\\Work\\clients\\healthiNation",
+			"C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\outs",
+			"C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app,C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app\\View,C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app\\View\\Layouts,C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app\\View\\Maps",
+			"C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app",
+			"",
+			"C:\\Users\\Dave\\Work\\clients\\dxagency\\toshiba_maps\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"authors",
+			"authorDOM",
+			"color",
+			"showReference",
+			"<a",
+			"authors",
+			"ImageWrapperControl",
+			"dispatchEvent",
+			"Formatted",
+			"UnFormatted",
+			"list =",
+			"section_title_header_label",
+			"Sign In",
+			"signin",
+			"sign in",
+			"issue_title",
+			"\"Title",
+			"cleanAccessionNumber",
+			"});",
+			"cleanDATA",
+			"cleanAccessionNumber",
+			"bridge://",
+			"	",
+			"raje",
+			"screen",
+			"\"",
+			"asyncLoad",
+			"hnB.MAX_TIME ",
+			"	hnB.MAX_TIME ",
+			"jquery",
+			"loadScript",
+			"load",
+			"    },",
+			"hnbload",
+			"path",
+			"path=",
+			"path =",
+			"alert",
+			"c_tracker",
+			"hnB.shell_click",
+			"shell_click",
+			"shell",
+			"FAST",
+			".js",
+			".log",
+			"path =",
+			"ifrm",
+			"companion",
+			"banner =",
+			"banner",
+			"var banner",
+			"var banner =",
+			"doubleclick.",
+			"companionBanner_bottom_300x250",
+			"ad.",
+			"double",
+			"companionBanner_bottom_300x250",
+			"hnB.p.DIV_300BANNER1",
+			"companionBanner_bottom_300x250",
+			"lr_comp_300x250",
+			"companionBanner_bottom_300x250",
+			"wrapped",
+			"ad",
+			"double",
+			"zone",
+			"adZone",
+			"create the div player",
+			"shell_click",
+			"c_tracker",
+			"path =",
+			".path",
+			"hnFP",
+			".path",
+			"hnFP.path",
+			"HN_300x100.jpg",
+			"liverail",
+			"	newcontent.setAttribute(",
+			"tracker",
+			"tracker]",
+			"tracker",
+			"gatracker",
+			"LiveRailPlugin",
+			"lowplayer.analytics-3.2.2.swf",
+			"unlimited",
+			"flow",
+			"unlimited",
+			".js",
+			"hnFPSingle300x600",
+			"hnFPSingle300x600_all",
+			"hnFPSingle300x600_all.js",
+			"Gradient_",
+			"playerID",
+			"delegates",
+			"query-1.7.1.min.js",
+			"loadScript",
+			"BLoader",
+			"jshnBLoader",
+			"loadScript",
+			"jshnBLoader",
+			"hn300x600adshell",
+			"jshnBLoader",
+			"jshnBLoader.min.js",
+			"hn300x600adshell",
+			"hn300x600adshell.jshnBLoader.min.js",
+			"hn300x600adshell",
+			"hn300x600adshell_tes",
+			"c_tracker",
+			"lr_comp_300x250",
+			"JavaScript1.1' ",
+			"avaScript1.1' ",
+			"lr_comp_300x250",
+			"extra",
+			"clickTracking",
+			"embedFlash",
+			"clickTracking",
+			"clickTag",
+			"liverail",
+			"strong",
+			"description",
+			"thumbnails",
+			"LR_PUBLISHER_ID",
+			"hnFP.liverail.LR_PUBLISHER_ID",
+			"hnFP.liverail.LR_PUBLISHER_ID ",
+			"LR_PUBLISHER_ID",
+			"LR_EXTRA_1",
+			"is",
+			"hnFP.liverail.LR_EXTRA_1",
+			"LR_VERTICALS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" OR Sign In",
+			"",
+			"'",
+			"",
+			"clickTracking",
+			"clickTag",
+			"item",
+			"E",
+			"D",
+			"$term",
+			"403px",
+			"403",
+			"",
+			"<?php echo Configure::read('WEB_ROOT');?>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/views/full_article/main.js",
+					"settings":
+					{
+						"buffer_size": 4345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2683,
+								3414
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1584.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/ImageWrapperControl.js",
+					"settings":
+					{
+						"buffer_size": 4758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4680,
+								4680
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1056.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/views/full_text_image/header.js",
+					"settings":
+					{
+						"buffer_size": 2096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1837,
+								1837
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 814.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/inetpub/wwwroot/davecollierconsulting/services.html",
+					"settings":
+					{
+						"buffer_size": 5527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2937,
+								2935
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 726.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"auto_name": "chju kkju f nb",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/views/full_text_image/main.js",
+					"settings":
+					{
+						"buffer_size": 4332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"alert",
+				"flowplayer/trunk/deploy/live_rail_video_click_tracking_test.html"
+			],
+			[
+				"416",
+				"flowplayer/trunk/samples/Dexilant_071411_Master_H264_640x360_500k.m4v"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true
+}

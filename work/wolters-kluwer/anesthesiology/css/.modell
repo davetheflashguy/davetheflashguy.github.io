@@ -1,0 +1,726 @@
+.icon-type-video
+{
+	background-image: url(/_layouts/1033/images/oaks.journals/icon-type-video.gif);			
+	background-repeat: no-repeat;	
+	line-height: 16px;	
+}
+
+.icon-type-podcast
+{
+	background-image: url(/_layouts/1033/images/oaks.journals/icon-type-podcast.gif);			
+	background-repeat: no-repeat;		
+	line-height: 16px;	
+}
+
+.icon-type-blog
+{
+	background-image: url(/_layouts/1033/images/oaks.journals/icon-type-blog.gif);			
+	background-repeat: no-repeat;		
+	line-height: 16px;	
+}
+
+.icon-type-img
+{
+	background-image: url(/_layouts/1033/images/oaks.journals/icon-type-img.gif);			
+	background-repeat: no-repeat;		
+	line-height: 16px;	
+}
+
+.icon-type-article
+{
+	background-image: url(/_layouts/1033/images/oaks.journals/icon-type-article.gif);			
+	background-repeat: no-repeat;		
+	line-height: 16px;	
+}
+
+.icon-type-issue
+{
+	background-image: url(/_layouts/1033/images/oaks.journals/icon-type-issue.gif);			
+	background-repeat: no-repeat;		
+	line-height: 16px;	
+}
+
+
+/*Part of PathNet Starts */
+	.ej-partof-pathnet {
+		z-index:1;
+		position:absolute;
+		/*top:-14px; this value changes per journal*/
+		left:470px; /*this value changes per journal*/
+		width:179px; 
+	}
+	.ej-partof-pathnet-mid {
+		background-image:url(/_layouts/1033/images/oaks.journals/partof-pathnet-mid.png);
+		background-repeat:repeat-y;
+	}
+	.ej-partof-pathnet-logo {padding:5px 0 0 6px;}
+	
+	#ej-partof-pathnet-roll {}
+	
+	.ej-partof-pathnet-tag {padding:4px 0 6px 6px;}
+	
+	.ej-partof-pathnet-call {font-weight:bold; font-size:12px; padding:6px 0 0 13px;}
+	
+	.ej-partof-pathnet-end {
+		background-image:url(/_layouts/1033/images/oaks.journals/partof-pathnet-end.png);
+		height:9px;
+		background-repeat:no-repeat;
+	}
+/*Part of PathNet Ends */
+
+/*================ Most popular Sponsorship v2 Starts ===========================*/
+
+.ej-spon-mp-cont {margin-top:18px;}
+		
+.ej-spon-mp {border:1px #878787 solid; padding:10px;}
+		
+.ej-spon-mp-opt-logo, 
+.ej-spon-links-label 
+{margin:0 0 5px 0;}
+
+.ej-spon-links-label {font-weight:bold;}
+		  
+.ej-spon-description,
+.ej-spon-links,
+.ej-spon-links-website
+{margin:0 0 10px 0;}
+
+/*================ Most popular Sponsorship v2 Ends ===========================*/
+
+/*================ Not Entitled Abstract Message ================*/
+
+
+		.ej-not-entitle-msg {
+			background-color:#e6f0f9; 
+			padding:15px 15px 10px 15px; 
+			margin: 10px 0 10px 0;
+		}
+		
+		.ej-not-entitle-msg-title {
+			font: 16px trebuchet ms, Verdana, Tahoma, Arial, sans-serif; 
+			font-weight:bold;
+			margin:0 0 10px 0;
+		}
+		
+		.ej-join-society {
+			margin:0 0 10px 0;
+		}
+		
+		.ej-join-society ul {
+			margin:0 0 0 30px;
+			padding:0;
+		}
+		
+		.ej-not-entitle-3-actions {font-weight:bold;}
+
+		.ej-not-entitle-help {vertical-align:middle;}
+		
+		.ej-abstract-action-why {margin-bottom:8px;}
+		
+		
+/*================ Search Jobs - HJP ================*/	
+
+	#ej-search-jobs-mktg-box {
+		width:600px;
+		height:250px;
+		background: url(/_layouts/1033/images/oaks.journals/bg-search-jobs.jpg) top left;
+		background-repeat:repeat-y;
+		margin:0 0 10px 0;
+		position:relative;
+	}	
+	
+	#ej-search-jobs-widget-search {
+		background: url(/_layouts/1033/images/oaks.journals/bg-search-jobs-cp.png) top left no-repeat;
+		position:absolute;
+		top:9px;
+		left:8px;
+		padding:0;
+		margin:0;
+		width:224px;
+		height:233px;
+	}
+	
+	#ej-search-jobs-widget-search-title {
+		/*font: 13px trebuchet ms, Verdana, Tahoma, Arial, sans-serif;*/
+		font-size:14px;
+		font-weight:bold;
+		color:#ffffff;
+		margin:0;
+		padding:5px 10px 5px 11px;
+		/*letter-spacing:1px;*/
+		
+		height:21px; /*31px*/
+	}
+	
+	#ej-search-jobs-widget-search-form {
+		padding:7px 0 0 12px;
+		/*font-size:11px;*/
+	}
+	
+	#ej-search-jobs-widget-search-form form {
+		margin:0;
+		padding:0;
+	}
+	
+	.ej-search-jobs-widget-search-keywords {
+		margin:0 0 7px 0;
+	}
+	
+	.ej-search-jobs-widget-search-keywords input {
+		width:193px;
+	}
+	
+	.ej-search-jobs-widget-search-zip  {
+		margin:0 5px 7px 0;
+		float:left;
+	}
+	
+	.ej-search-jobs-widget-search-zip input  {
+		width:100px;
+	}
+	
+	.ej-search-jobs-widget-search-within  {
+		margin:1px 0 7px 0;
+		float:left;
+	}
+	
+	.ej-search-jobs-widget-search-within select  {
+		width:88px;
+	}
+	
+	.ej-search-jobs-widget-search-category  {
+		margin:0 0 18px 0;
+	}
+	
+	.ej-search-jobs-widget-search-category select  {
+		width:199px;
+	}
+	
+	.ej-search-jobs-widget-search-button  {
+		margin:0 20px 0 0;
+		#margin:0 12px 0 0; /*for IE*/
+		float:left;
+	}
+	
+	.ej-search-jobs-widget-search-advanced  {
+		margin:5px 0 0 0;
+		float:left;
+	}
+	
+	.ej-search-jobs-widget-search-advanced  a {
+		font-size:11px;
+	}
+	
+	div.ej-search-jobs-mktg-box-text {
+		position:absolute;
+		top:10px;
+		left:246px;
+		padding:0;
+		margin:0;
+		font-size:17px;
+	}
+	
+	.ej-search-jobs-mktg-box-text-reg {font-weight:bold;}	
+	
+	.ej-search-jobs-powered-by {font-family:Verdana, Geneva, sans-serif; font-size:11px;}
+	
+	
+	ul.ej-browse-categories {
+		float:left;
+		margin:10px 30px 0 0;
+		padding:0;
+	}
+	
+	ul.ej-browse-categories li {
+		list-style-type:none;
+		/*background: url(../images/list-square-03.gif) top left no-repeat;
+		background-position: 0 5px;
+		padding: 0 0 5px 13px;
+		margin:0 0 0 -35px;*/
+		
+		padding: 0 0 3px 0;
+		margin:0 0 0 0px;
+		word-wrap: break-word; 
+        width:160px; 
+        overflow:hidden; 
+	}
+	
+	
+		
+/*================ Article not available as PDF ================*/		
+		
+		.ej-art-not-avail-pdf-img {vertical-align:middle; padding-right:4px;}		
+		.ej-art-not-avail-pdf-txt {font-weight:bold;}		
+
+
+/* Issue Publication CSS Starts*/
+
+.ej-publish-alert {
+    background-color: #FFFFCC;
+    border: 1px solid #CCCCCC;
+    margin-right: 20px;
+    padding: 15px;
+}
+.ej-publish-alert-table {
+    width: 100%;
+}
+.ej-publish-alert-table-left-col {
+    padding-right: 45px;
+    vertical-align: top;
+}
+h2.ej-publish-alert-h2 {
+    font-weight: bold;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+p.ej-publish-alert-msg {
+    margin-top: 0;
+    padding-top: 2px;
+}
+
+ul.ej-publish-available-issues {
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+.ej-publish-alert-table-right-col {
+    padding-top: 25px;
+    vertical-align: top;
+    width: 230px;
+}
+.ej-publish-features-title {
+    font-weight: bold;
+    margin-top: 0;
+    padding-top: 0;
+}
+ul.ej-publish-features {
+    margin-top: 0;
+}
+.ej-publish-alert-stage {
+    color: #FF0000;
+}
+.ej-publish-features-table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+.ej-publish-features-table td {
+    border-bottom: 1px solid #C7C7C7;
+    padding: 4px 0 2px;
+    vertical-align: top;
+}
+
+/* Issue Publication CSS End*/
+
+/* Fix for bug #7200: Update Font Size in Administration Site*/
+.ms-formlabel,.ms-formbody{
+	font-size: 1em;
+}
+
+/*================ For Staging Workflow ================*/
+
+.ej-publish-alert {
+	padding:15px;
+	background-color:#FFC;
+	border:1px solid #CCC;
+	margin-right:20px;
+}
+
+h2.ej-publish-alert-h2 {
+	padding-bottom:0;
+	margin-bottom:0;
+	font-weight:bold;
+}
+
+.ej-publish-alert-stage {color:#ff0000;}
+
+p.ej-publish-alert-msg {
+	padding-top:2px;
+	margin-top:0;
+}
+
+ul.ej-publish-available-issues {margin-top:0; margin-bottom:20px;}
+
+ul.ej-publish-available-issues li {margin-left:-15px;}
+
+ul.ej-publish-features {margin-top:0; }
+
+ul.ej-publish-features li {margin-left:-15px;}
+
+.ej-publish-features-title {padding-top:0;margin-top:0; font-weight:bold;}
+
+.ej-publish-alert-table {
+	width:100%;
+}
+
+.ej-publish-alert-table-left-col {
+	vertical-align:top;
+	padding-right:45px;
+}
+
+.ej-publish-alert-table-right-col {
+	vertical-align:top;
+	width:230px;
+	padding-top:25px;
+}
+
+
+.ej-publish-features-table {
+	border-collapse:collapse;
+	border-spacing:0 0; /*Horizontal Vertical*/
+	width:100%;
+}
+
+.ej-publish-features-table td { 
+	vertical-align: top;
+	padding:4px 0 2px 0;
+	border-bottom:solid 1px #c7c7c7;
+}
+
+/*Society Registration Links*/ 
+.ej-ejp-login-fields {}      
+
+.ej-soc-login-table {
+    margin-top:10px; 
+	margin-bottom:5px;
+	padding-right:10px;
+	padding-left:3px;
+	width:280px; /*280*/
+	height:74px; /*74*/
+	background-image:url(/_layouts/1033/images/OAKS.Journals/bg-sso-btn.png);
+	background-repeat:no-repeat;
+}
+
+.ej-soc-login-table-01, 
+.ej-soc-login-table-02, 
+.ej-soc-login-table-03 { 
+	
+}		
+.ej-soc-login-table-01 {
+    padding-right:5px;
+    padding-left:8px;
+}
+			
+.ej-soc-login-table-02 {
+    /*width:195px;*/
+	/* width:inherit;*/
+	padding-right:5px;
+	padding-left:4px;
+}
+			
+.ej-soc-login-table-03 {
+    width:16px;
+}
+
+.ej-sso-or {margin-top:5px; margin-bottom:0px;}
+
+.ej-sso-login-lww {
+	cursor:pointer; 
+	font-size:14px; 
+	font-family:Arial, Helvetica, sans-serif; 
+	padding-left:20px;
+	padding-top:5px;
+}
+
+.ej-sso-login-lww-ex {
+	background-image:url(/_layouts/1033/images/OAKS.Journals/icon-module-show.png);
+	background-repeat:no-repeat;
+	background-position: 0 7px;
+}
+
+.ej-sso-login-lww-col {
+	background-image:url(/_layouts/1033/images/OAKS.Journals/icon-module-hide.png);
+	background-repeat:no-repeat;
+	background-position: 0 7px;
+}
+
+.ej-ppv-exp-message .ej-info-message {background-color:#ffffcc;}
+
+/*========Third Party RSS Feed Webpart===========*/
+#ej-box-rss-blog-feed #ej-box-01-body {padding-top:7px;}
+
+.ej-rss-blog-about {
+		margin:0 0 12px 0;
+	}
+	
+	.ej-rss-blog-thumb-a {}
+	
+    .ej-rss-blog-thumb {
+		border: 1px solid #E0E0E0;
+		margin-right:7px;
+		float:left;
+		margin-top:2px;
+	}
+	
+	.ej-rss-blog-title {
+		padding-bottom:3px;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:13px;
+	}
+	
+	.ej-rss-blog-item {margin: 0 0 10px 0;}
+	
+	.ej-rss-blog-date-author {
+		padding-bottom:3px;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12px;
+		font-weight:bold; 
+		color:#4b4b4b;
+	}
+	
+	.ej-rss-blog-date {}
+	
+	.ej-rss-blog-description {}
+	#ej-left-web-part-zone .ej-rss-blog-title {
+		font-size:14px;
+	}
+	
+	#ej-left-web-part-zone .ej-rss-blog-date-author {
+		font-size:13px;
+	}
+	
+	/*================ For Featured Video Collection Webpart ================ */
+
+	#ej-featured-vc #ej-box-01-body 
+	{
+	    padding-top:7px;
+	    padding-bottom:0px; 
+    }
+
+	.ej-featured-vc-opt-msg {
+		margin:0 0 10px 0;
+	}
+	
+	#ej-featured-vc-toolbar-container {
+		margin:0 0 10px 0;
+		padding: 6px 5px 0 5px;
+		height: 30px; 
+		background-color:#f4f4f4;
+		clear: both;
+	}
+	#ej-featured-vc-toolbar-pagination {
+		float:right;
+		padding:0;
+		margin:0;
+	}
+	#ej-featured-vc-toolbar-pagination table {
+		border-collapse: collapse;
+		border-spacing: 0 0; /*Horizontal Vertical*/
+	}
+	#ej-featured-vc-toolbar-pagination table td {
+		padding: 0 3px 0 3px;
+	}
+	.ej-featured-vc-pagination-previous a {
+		width: 23px;
+		height: 21px;
+		background: url(/_layouts/1033/images/OAKS.JournalsRoot/icon-btn-arrow-left.png) top left no-repeat;
+		text-indent: -9999px;
+		font-size: 1px;
+		text-align: left;
+		display: block;
+	}
+	.ej-featured-vc-pagination-next a {
+		width: 23px;
+		height: 21px;
+		background: url(/_layouts/1033/images/OAKS.JournalsRoot/icon-btn-arrow-right.png) top left no-repeat;
+		text-indent: -9999px;
+		font-size: 1px;
+		text-align: left;
+		display: block;
+	}
+
+	.ej-featured-vc-toolbar-table {
+		width:100%;
+		border-collapse: collapse;
+		border-spacing: 0 0; /*Horizontal Vertical*/
+		padding:0;
+		margin:0;
+	}
+	
+	.ej-featured-vc-toolbar-table td {}
+	
+	.ej-featured-vc-toolbar-table td.ej-featured-vc-toolbar-td-items 
+	{
+	    width:90px; 
+	    padding-right:20px;
+    }
+	
+	.ej-featured-vc-toolbar-table td.ej-featured-vc-toolbar-td-view-all {}
+	
+	.ej-featured-vc-toolbar-table td.ej-featured-vc-toolbar-td-pagination {}
+	
+	.ej-featured-vc-item-container {}
+	
+	.ej-featured-vc-item {
+		padding:0 6px 15px 6px; 
+		float:left;
+		width:127px; /*plus 2px for border*/
+		height:170px;
+		word-wrap: break-word;
+	}
+	
+	.ej-featured-vc-item-thumb-a {display:block; padding:0 0 2px 0;}
+	
+	.ej-featured-vc-item-thumb {border:solid #e0e0e0 1px;}
+	
+	.ej-featured-vc-item-title {}
+	 
+	/*================ Secondary Publication Current Issue ================*/ 
+	
+	.ej-sec-pub-current-issue-container {
+		/*margin: 0 0 10px 0;*/
+		}
+	
+	.ej-sec-pub-current-issue-title {
+	  font-size:13px;
+	  font-weight:bold;
+	  margin:0 0 5px 0;
+	 }
+
+	/*.ej-rss-blog-about {
+		margin:0 0 12px 0;
+	}*/
+	
+	.ej-sec-pub-current-issue-thumb-a {}
+	
+    .ej-sec-pub-current-issue-thumb {
+		border: 1px solid #e0e0e0;
+		margin:2px 10px 3px 0;
+		float:left;
+	}
+	
+	.ej-sec-pub-current-issue-toc-link {
+		margin:0 0 10px 0;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:14px;
+	}
+	
+	.ej-sec-pub-current-issue-opt-msg {}
+	
+	.ej-sec-pub-current-issue-container #ej-opt-in-e-alerts a {
+		display:inline-block;
+		margin:0 0 8px 0;
+	}
+	
+	/*================ Secondary Publication Featured Articles ================*/ 	
+
+	#ej-box-sec-pub-featured-art #ej-box-01-body {
+		padding-top:7px;
+	}
+
+	.ej-box-sec-pub-featured-art-opt-msg {
+		margin:0 0 12px 0;
+	}
+	
+	.ej-sec-pub-featured-art-container {
+		margin: 0 0 10px 0;
+	}
+
+	.ej-sec-pub-featured-art-title {
+		padding-bottom:3px;
+  		font: 15px trebuchet ms, Verdana, Tahoma, Arial, sans-serif;
+	}
+	#ej-right-web-part-zone .ej-sec-pub-featured-art-title {
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12px;
+		/*word-wrap: break-word;
+		width:165px;*/ 
+	}
+	
+	.ej-sec-pub-featured-art-author {}
+
+	.ej-sec-pub-featured-art-img-bg {
+		width:100px; 
+		height:100px; 
+		margin: 0 10px 2px 0;
+		text-align: center;
+		background-color: #e0e0e0;
+		float:left;
+	}
+	.ej-sec-pub-featured-art-img-bg table {
+		border-collapse: collapse;
+		border-spacing: 0 0; /*Horizontal Vertical*/
+		text-align: center;
+		width:100px; 
+		height:100px; 
+	}
+	
+	.ej-sec-pub-featured-art-img-bg table td {
+		padding:0;
+		margin:0;
+		vertical-align:middle;
+	}
+    
+	/*================ In Partnership Starts ================*/ 
+	.ej-in-partnership-link {
+		/* z-index:1; */
+		position:absolute;
+		top:-14px; 
+		left:445px;
+	}
+	.ej-in-partnership-link-img {}	
+	
+/*================ Session Expired Starts ================*/ 
+
+.ej-session-expired-from-login {
+	background-color:#ffffcc; 
+	padding:7px 5px 7px 32px; 
+	border:1px solid #ebebb3; 
+	margin:10px 20px 0 20px;
+	background-image: url(/_layouts/1033/images/oaks.journals/icon-info.gif);
+	background-repeat:no-repeat;
+	background-position: 10px 7px; /*horizontal vertical*/
+}
+
+ .ej-session-expired-from-login-msg {
+	float:left;
+	width:800px;
+}
+
+.ej-session-expired-from-login-x  {
+	float:right; 
+	width:18px; 
+	height:18px;
+	text-align:center;
+	}
+	
+.ej-session-expired-from-login-x a  {
+	width:18px; 
+	height:18px; 
+	display:block;
+	background-image: url(/_layouts/1033/images/oaks.journals/icon-x-remove.gif);
+	background-repeat:no-repeat;
+	background-position: center center; /*horizontal vertical*/
+	text-indent: -9999px;
+	font-size: 1px;
+	text-align: left;
+}
+
+.ej-session-expired-from-login-x a:hover  {
+	background-color:#ebebb3;
+}
+	
+/*================ RSS Feed Page ================*/     
+	.ej-rss-category {
+		border-bottom:1px solid #cccccc;		
+		font: 14px trebuchet ms, Verdana, Tahoma, Arial, sans-serif;
+		font-weight: bold;		
+		padding: 10px 0 0 0;
+	}
+	
+	.ej-rss-link-group {
+		margin-top: 7px;
+		#margin-bottom: 7px;
+		list-style-type: none;
+	}
+	
+	.ej-rss-link-group li a {
+		list-style-type:none;
+		background: url(/_layouts/1033/images/oaks.journals/icon-rss.gif) top left no-repeat;
+		background-position: 0 2px;
+		padding: 0 0 10px 50px;
+		_padding: 0 0 5px 50px; /*for IE 6*/
+		margin:0 0 0 -35px;
+		display:inline-block;		
+	}	
+	
+

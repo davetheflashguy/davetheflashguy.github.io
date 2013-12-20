@@ -1,0 +1,1 @@
+define(["jquery","underscore","backbone","router"],function(e,t,n,r){return{initialize:function(){}}});

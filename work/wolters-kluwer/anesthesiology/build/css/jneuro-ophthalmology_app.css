@@ -1,0 +1,36 @@
+
+body, #page {
+	
+}
+#logo { 
+  background:url(../images/jneuro-ophthalmology_logo.png) center center no-repeat;
+}
+#header{ 
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#ebeded));
+}
+#menu {
+  background-color: #005d83; 
+}
+#menu ul li.first {
+  background-color: #337d9c;
+}
+#optional_image { 
+  background-image:url(../images/jneuro-ophthalmology_imagery.jpg);
+}
+#footer_container {
+  
+}
+#buy_issue_button{ 
+  
+  
+}
+#section_title_header_container{ 
+  
+  
+  
+}
+#back_btn{ 
+   background-image: url('../images/back_button_med_grey.png');
+  
+  
+}

@@ -1,0 +1,46 @@
+
+body, #page {
+	/*background: #hex;*/
+}
+
+#logo { 
+  background:url(../images/infectdis_logo.png) center center no-repeat;
+}
+
+#header{ 
+  background: -webkit-gradient(linear, left top, left bottom, from(#871a03), to(#871a03));
+}
+
+#menu {
+  background-color: #c13417; 
+}
+
+#menu ul li.first {
+  background-color: #cb563e;
+}
+
+#optional_image { 
+  background-image:url(../images/infectdis_imagery.jpg);
+}
+
+#footer_container {
+  /*background-color: #hex;*/
+}
+
+#buy_issue_button{ 
+  /*background: -webkit-linear-gradient(top,#hex,#hex 50%, #hex 50%,#hex);*/
+  /*border: 1px solid #hex;*/
+}
+
+#section_title_header_container{ 
+  /*background:-webkit-linear-gradient(top, #hex 0px, #hex 7%, #hex 93%, #hex 100%);*/
+  /*border-top: 1px solid #hex;*/
+  /*border-bottom: 1px solid #hex;*/
+}
+
+#back_btn{ 
+  /*background-image: url('../images/image file');*/
+  /*Default is back_button_light_grey.png. Choose from back_button_white.png, back_button_light_grey.png, back_button_med_grey.png, back_button_dark_grey.png */
+}
+
+
